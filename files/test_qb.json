@@ -1,0 +1,34 @@
+[
+  {
+    "question": "question 1",
+    "option A": "option A",
+    "option B": "option B",
+    "option C": "option C",
+    "option D": "option D",
+    "answer": "A"
+  },
+  {
+    "question": "question 2",
+    "option A": "option A",
+    "option B": "option B",
+    "option C": "option C",
+    "option D": "option D",
+    "answer": "B"
+  },
+  {
+    "question": "question 3",
+    "option A": "option A",
+    "option B": "option B",
+    "option C": "option C",
+    "option D": "option D",
+    "answer": "C"
+  },
+  {
+    "question": "question 4",
+    "option A": "option A",
+    "option B": "option B",
+    "option C": "option C",
+    "option D": "option D",
+    "answer": "D"
+  }
+]
