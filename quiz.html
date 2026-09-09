@@ -1,0 +1,399 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quiz App</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 650px;
+      margin: 30px auto;
+      padding: 0 15px;
+      line-height: 1.5;
+    }
+
+    .card {
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      padding: 20px;
+      margin-bottom: 20px;
+      background-color: #f9f9f9;
+    }
+
+    .form-group {
+      margin-bottom: 15px;
+    }
+
+    .form-group label {
+      display: block;
+      font-weight: bold;
+      margin-bottom: 5px;
+    }
+
+    .form-group input[type="number"] {
+      width: 100%;
+      padding: 8px;
+      box-sizing: border-box;
+    }
+
+    button {
+      padding: 8px 16px;
+      font-size: 14px;
+      cursor: pointer;
+      background-color: #007bff;
+      color: white;
+      border: none;
+      border-radius: 4px;
+      margin-right: 10px;
+    }
+
+    button:hover {
+      background-color: #0056b3;
+    }
+
+    button:disabled {
+      background-color: #cccccc;
+      cursor: not-allowed;
+    }
+
+    .header-bar {
+      display: flex;
+      justify-content: space-between;
+      font-weight: bold;
+      margin-bottom: 15px;
+      background-color: #e9ecef;
+      padding: 10px;
+      border-radius: 4px;
+    }
+
+    .options-list {
+      list-style-type: none;
+      padding: 0;
+    }
+
+    .options-list li {
+      margin-bottom: 10px;
+      padding: 8px;
+      border-radius: 4px;
+      color: black;
+    }
+
+    .options-list label {
+      cursor: pointer;
+      width: 100%;
+      display: inline-block;
+    }
+
+    /* Color Feedback */
+    .correct {
+      color: green !important;
+      font-weight: bold;
+    }
+
+    .incorrect {
+      color: red !important;
+      font-weight: bold;
+    }
+
+    .hidden {
+      display: none;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Quiz Application</h1>
+
+  <!-- Setup Form -->
+  <div id="setup-card" class="card">
+    <h2>Quiz Setup</h2>
+    <form id="setup-form">
+      <div class="form-group">
+        <label for="start-question">Starting Question Number (1-based index):</label>
+        <input type="number" id="start-question" min="1" value="1" required>
+      </div>
+
+      <div class="form-group">
+        <label for="num-questions">Number of Questions:</label>
+        <input type="number" id="num-questions" min="1" value="5" required>
+      </div>
+
+      <div class="form-group">
+        <label for="duration">Quiz Duration (in minutes):</label>
+        <input type="number" id="duration" min="0.5" step="0.5" value="5" required>
+      </div>
+
+      <button type="submit" id="start-btn">Start Quiz</button>
+    </form>
+  </div>
+
+  <!-- Active Quiz Section -->
+  <div id="quiz-card" class="card hidden">
+    <div class="header-bar">
+      <span id="score-display">Score: 0</span>
+      <span id="timer-display">Time Left: --:--</span>
+    </div>
+
+    <div id="question-container">
+      <h3 id="question-text">Question goes here...</h3>
+      <form id="answer-form">
+        <ul class="options-list">
+          <li>
+            <label id="label-A">
+              <input type="radio" name="option" value="A" required> <span id="text-A">Option A</span>
+            </label>
+          </li>
+          <li>
+            <label id="label-B">
+              <input type="radio" name="option" value="B"> <span id="text-B">Option B</span>
+            </label>
+          </li>
+          <li>
+            <label id="label-C">
+              <input type="radio" name="option" value="C"> <span id="text-C">Option C</span>
+            </label>
+          </li>
+          <li>
+            <label id="label-D">
+              <input type="radio" name="option" value="D"> <span id="text-D">Option D</span>
+            </label>
+          </li>
+        </ul>
+
+        <div style="margin-top: 15px;">
+          <button type="submit" id="submit-answer-btn">Submit Answer</button>
+          <button type="button" id="next-question-btn" disabled>Next Question</button>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <!-- Quiz Completed / Summary Section -->
+  <div id="result-card" class="card hidden">
+    <h2>Quiz Completed!</h2>
+    <p id="final-message"></p>
+    <p><strong>Final Score:</strong> <span id="final-score">0</span></p>
+    <button id="next-quiz-btn">Take Another Quiz</button>
+  </div>
+
+  <script>
+    let questionBank = [];
+    
+    // Quiz state management
+    let currentIndex = 0;       // 0-based index in questionBank array
+    let questionsAttempted = 0;
+    let totalQuestionsToTake = 0;
+    let score = 0;
+    let timerInterval = null;
+    let timeRemaining = 0;     // in seconds
+    let lastDurationMinutes = 5;
+
+    // Load JSON question bank
+    async function fetchQuestionBank() {
+      try {
+        const response = await fetch('question_bank.json');
+        if (!response.ok) {
+          throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        questionBank = await response.json();
+      } catch (error) {
+        alert("Failed to load question_bank.json. Please ensure the file exists and is properly formatted.");
+        console.error("Error loading JSON:", error);
+      }
+    }
+
+    // Initialize on page load
+    window.addEventListener('DOMContentLoaded', fetchQuestionBank);
+
+    // Setup Form Elements
+    const setupForm = document.getElementById('setup-form');
+    const setupCard = document.getElementById('setup-card');
+    const quizCard = document.getElementById('quiz-card');
+    const resultCard = document.getElementById('result-card');
+
+    // Quiz UI Elements
+    const scoreDisplay = document.getElementById('score-display');
+    const timerDisplay = document.getElementById('timer-display');
+    const questionText = document.getElementById('question-text');
+    const answerForm = document.getElementById('answer-form');
+    const submitAnswerBtn = document.getElementById('submit-answer-btn');
+    const nextQuestionBtn = document.getElementById('next-question-btn');
+
+    // Final UI Elements
+    const finalScore = document.getElementById('final-score');
+    const finalMessage = document.getElementById('final-message');
+    const nextQuizBtn = document.getElementById('next-quiz-btn');
+
+    // Start Quiz Event
+    setupForm.addEventListener('submit', function(e) {
+      e.preventDefault();
+
+      if (questionBank.length === 0) {
+        alert("Question bank is empty or not loaded yet.");
+        return;
+      }
+
+      const startNum = parseInt(document.getElementById('start-question').value, 10);
+      totalQuestionsToTake = parseInt(document.getElementById('num-questions').value, 10);
+      lastDurationMinutes = parseFloat(document.getElementById('duration').value);
+
+      if (startNum < 1 || startNum > questionBank.length) {
+        alert(`Please choose a starting question between 1 and ${questionBank.length}.`);
+        return;
+      }
+
+      currentIndex = startNum - 1; // Convert 1-based user input to 0-based array index
+      questionsAttempted = 0;
+      score = 0;
+      timeRemaining = Math.floor(lastDurationMinutes * 60);
+
+      setupCard.classList.add('hidden');
+      resultCard.classList.add('hidden');
+      quizCard.classList.remove('hidden');
+
+      updateScoreDisplay();
+      startTimer();
+      loadQuestion();
+    });
+
+    // Display Current Question
+    function loadQuestion() {
+      // Reset form states
+      answerForm.reset();
+      resetOptionColors();
+      submitAnswerBtn.disabled = false;
+      enableRadioButtons(true);
+      nextQuestionBtn.disabled = true;
+
+      if (currentIndex >= questionBank.length || questionsAttempted >= totalQuestionsToTake) {
+        endQuiz("You completed all questions for this quiz!");
+        return;
+      }
+
+      const qData = questionBank[currentIndex];
+      questionText.textContent = `Q${currentIndex + 1}. ${qData.question}`;
+      
+      document.getElementById('text-A').textContent = qData["option A"];
+      document.getElementById('text-B').textContent = qData["option B"];
+      document.getElementById('text-C').textContent = qData["option C"];
+      document.getElementById('text-D').textContent = qData["option D"];
+    }
+
+    // Submit Answer Event
+    answerForm.addEventListener('submit', function(e) {
+      e.preventDefault();
+
+      const selectedOption = answerForm.querySelector('input[name="option"]:checked');
+      if (!selectedOption) return;
+
+      const userAnswer = selectedOption.value;
+      const correctAnswer = questionBank[currentIndex].answer.trim();
+
+      // Color coding & Score logic
+      if (userAnswer === correctAnswer) {
+        score += 1;
+        setOptionColor(userAnswer, 'correct');
+      } else {
+        score -= 1;
+        setOptionColor(userAnswer, 'incorrect');
+        setOptionColor(correctAnswer, 'correct'); // Reveal correct answer
+      }
+
+      updateScoreDisplay();
+
+      // Disable answer submissions for current question
+      submitAnswerBtn.disabled = true;
+      enableRadioButtons(false);
+      nextQuestionBtn.disabled = false;
+      
+      questionsAttempted++;
+    });
+
+    // Next Question Button Event
+    nextQuestionBtn.addEventListener('click', function() {
+      currentIndex++;
+      loadQuestion();
+    });
+
+    // Helper: Reset option label colors
+    function resetOptionColors() {
+      ['A', 'B', 'C', 'D'].forEach(opt => {
+        const label = document.getElementById(`label-${opt}`);
+        label.classList.remove('correct', 'incorrect');
+      });
+    }
+
+    // Helper: Apply color to specific option label
+    function setOptionColor(optionValue, colorClass) {
+      const label = document.getElementById(`label-${optionValue}`);
+      if (label) {
+        label.classList.add(colorClass);
+      }
+    }
+
+    // Helper: Toggle radio buttons enabled/disabled state
+    function enableRadioButtons(enabled) {
+      const radios = answerForm.querySelectorAll('input[name="option"]');
+      radios.forEach(r => r.disabled = !enabled);
+    }
+
+    // Helper: Update score on screen
+    function updateScoreDisplay() {
+      scoreDisplay.textContent = `Score: ${score}`;
+    }
+
+    // Timer Logic
+    function startTimer() {
+      clearInterval(timerInterval);
+      updateTimerDisplay();
+
+      timerInterval = setInterval(() => {
+        timeRemaining--;
+        updateTimerDisplay();
+
+        if (timeRemaining <= 0) {
+          clearInterval(timerInterval);
+          endQuiz("Time ran out!");
+        }
+      }, 1000);
+    }
+
+    function updateTimerDisplay() {
+      const minutes = Math.floor(timeRemaining / 60);
+      const seconds = timeRemaining % 60;
+      timerDisplay.textContent = `Time Left: ${minutes.toString().padStart(2, '0')}:${seconds.toString().padStart(2, '0')}`;
+    }
+
+    // End Quiz
+    function endQuiz(message) {
+      clearInterval(timerInterval);
+      quizCard.classList.add('hidden');
+      resultCard.classList.remove('hidden');
+
+      finalMessage.textContent = message;
+      finalScore.textContent = score;
+    }
+
+    // Take Another Quiz Event
+    nextQuizBtn.addEventListener('click', function() {
+      // Calculate next starting index (1-based for the form)
+      let nextStartQuestion = currentIndex + 1;
+
+      // If quiz ended via timer after an answer was submitted, next index points to the unattempted question
+      if (nextStartQuestion > questionBank.length) {
+        alert("You have reached the end of the question bank!");
+        nextStartQuestion = 1; // Wrap around to start if desired
+      }
+
+      // Populate setup form with previous duration/count and updated start question
+      document.getElementById('start-question').value = nextStartQuestion;
+      document.getElementById('num-questions').value = totalQuestionsToTake;
+      document.getElementById('duration').value = lastDurationMinutes;
+
+      resultCard.classList.add('hidden');
+      setupCard.classList.remove('hidden');
+    });
+  </script>
+</body>
+</html>
