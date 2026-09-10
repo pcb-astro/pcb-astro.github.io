@@ -174,11 +174,18 @@
     <h2>Quiz Completed!</h2>
     <p id="final-message"></p>
     <p><strong>Final Score:</strong> <span id="final-score">0</span></p>
+
+    <!-- Summary section for questions and answers -->
+    <hr style="margin: 20px 0;">
+    <h3>Quiz Review</h3>
+    <div id="summary-list" style="text-align: left; margin-bottom: 20px;"></div>
+    
     <button id="next-quiz-btn">Take Another Quiz</button>
   </div>
 
   <script>
     let questionBank = [];
+    let quizSummary = []; // Stores details of questions shown in the current quiz
     
     // Quiz state management
     let currentIndex = 0;       // 0-based index in questionBank array
@@ -246,6 +253,7 @@
       currentIndex = startNum - 1; // Convert 1-based user input to 0-based array index
       questionsAttempted = 0;
       score = 0;
+      quizSummary = []; // <-- Clear previous review data
       timeRemaining = Math.floor(lastDurationMinutes * 60);
 
       setupCard.classList.add('hidden');
@@ -273,6 +281,17 @@
 
       const qData = questionBank[currentIndex];
       questionText.textContent = `Q${currentIndex + 1}. ${qData.question}`;
+
+      // Record question details for the final summary
+      const correctAnswerLetter = qData.answer.trim();
+      const correctAnswerText = qData[`option ${correctAnswerLetter}`];
+      
+      quizSummary.push({
+        questionNum: currentIndex + 1,
+        questionText: qData.question,
+        answerLetter: correctAnswerLetter,
+        answerText: correctAnswerText
+      });
       
       document.getElementById('text-A').textContent = qData["option A"];
       document.getElementById('text-B').textContent = qData["option B"];
@@ -372,6 +391,24 @@
 
       finalMessage.textContent = message;
       finalScore.textContent = score;
+
+      // Render question review list
+      const summaryListContainer = document.getElementById('summary-list');
+      summaryListContainer.innerHTML = ''; // Clear previous items
+    
+      quizSummary.forEach(item => {
+        const itemDiv = document.createElement('div');
+        itemDiv.style.marginBottom = '15px';
+        itemDiv.style.paddingBottom = '10px';
+        itemDiv.style.borderBottom = '1px solid #e0e0e0';
+    
+        itemDiv.innerHTML = `
+          <div><strong>Question ${item.questionNum}:</strong> ${item.questionText}</div>
+          <div><strong>Correct Answer:</strong> Option ${item.answerLetter} (${item.answerText})</div>
+        `;
+    
+        summaryListContainer.appendChild(itemDiv);
+      });
     }
 
     // Take Another Quiz Event
