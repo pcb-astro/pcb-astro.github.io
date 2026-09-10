@@ -163,7 +163,7 @@
 
         <div style="margin-top: 15px;">
           <button type="submit" id="submit-answer-btn">Submit Answer</button>
-          <button type="button" id="next-question-btn" disabled>Next Question</button>
+          <button type="button" id="next-question-btn">Next Question</button>
         </div>
       </form>
     </div>
@@ -264,7 +264,7 @@
       resetOptionColors();
       submitAnswerBtn.disabled = false;
       enableRadioButtons(true);
-      nextQuestionBtn.disabled = true;
+      nextQuestionBtn.disabled = false;
 
       if (currentIndex >= questionBank.length || questionsAttempted >= totalQuestionsToTake) {
         endQuiz("You completed all questions for this quiz!");
@@ -306,12 +306,11 @@
       submitAnswerBtn.disabled = true;
       enableRadioButtons(false);
       nextQuestionBtn.disabled = false;
-      
-      questionsAttempted++;
     });
 
     // Next Question Button Event
     nextQuestionBtn.addEventListener('click', function() {
+      questionsAttempted++; // Increment total attempted/seen count
       currentIndex++;
       loadQuestion();
     });
