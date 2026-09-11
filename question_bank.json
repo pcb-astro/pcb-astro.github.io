@@ -2555,1060 +2555,904 @@
     "option D": "Lunar Vehicle Model-3",
     "answer": "B"
   },
-    {
-    "question_number": 301,
+  {
+    "number": 301,
     "question": "What is the point in the sky where the Sun appears highest at noon during the year?",
-    "options": {
-      "A": "Equinox",
-      "B": "Solstice",
-      "C": "Zenith",
-      "D": "Perihelion"
-    },
+    "option A": "Equinox",
+    "option B": "Solstice",
+    "option C": "Zenith",
+    "option D": "Aphelion",
     "answer": "B"
   },
   {
-    "question_number": 302,
+    "number": 302,
     "question": "What is the name of the satellite series used for ocean studies?",
-    "options": {
-      "A": "Cartosat",
-      "B": "Oceansat",
-      "C": "Astrosat",
-      "D": "GSAT"
-    },
-    "answer": "B"
+    "option A": "Oceansat",
+    "option B": "Cartosat",
+    "option C": "GSAT",
+    "option D": "RISAT",
+    "answer": "A"
   },
   {
-    "question_number": 303,
+    "number": 303,
     "question": "What is the flattened disk of gas and dust around a young star called?",
-    "options": {
-      "A": "Accretion Disk",
-      "B": "Galactic Halo",
-      "C": "Protoplanetary Disk",
-      "D": "Oort Cloud"
-    },
-    "answer": "C"
+    "option A": "Accretion Disk",
+    "option B": "Protoplanetary Disk",
+    "option C": "Galactic Halo",
+    "option D": "Planetary Nebula",
+    "answer": "B"
   },
   {
-    "question_number": 304,
+    "number": 304,
     "question": "What is the path of a satellite around Earth called?",
-    "options": {
-      "A": "Trajectory",
-      "B": "Ecliptic",
-      "C": "Orbit",
-      "D": "Vector"
-    },
+    "option A": "Trajectory",
+    "option B": "Axis",
+    "option C": "Orbit",
+    "option D": "Ecliptic",
     "answer": "C"
   },
   {
-    "question_number": 305,
+    "number": 305,
     "question": "What is the imaginary circle in the sky marking the apparent yearly path of the Sun?",
-    "options": {
-      "A": "Ecliptic",
-      "B": "Celestial Equator",
-      "C": "Prime Meridian",
-      "D": "Horizon"
-    },
-    "answer": "A"
+    "option A": "Celestial Equator",
+    "option B": "Ecliptic",
+    "option C": "Prime Meridian",
+    "option D": "Horizon",
+    "answer": "B"
   },
   {
-    "question_number": 306,
+    "number": 306,
     "question": "What is the name of the planned Indian space station?",
-    "options": {
-      "A": "Tiangong",
-      "B": "Bharatiya Antariksha Station",
-      "C": "Skylab",
-      "D": "International Space Station"
-    },
-    "answer": "B"
+    "option A": "Bharatiya Antariksha Station",
+    "option B": "Gaganyaan Orbital Lab",
+    "option C": "ISRO Space Station",
+    "option D": "VSSC Orbital Outpost",
+    "answer": "A"
   },
   {
-    "question_number": 307,
+    "number": 307,
     "question": "What do we call small early planetary bodies formed during planet formation?",
-    "options": {
-      "A": "Asteroids",
-      "B": "Planetesimals",
-      "C": "Comets",
-      "D": "Dwarf Planets"
-    },
-    "answer": "B"
+    "option A": "Asteroids",
+    "option B": "Comets",
+    "option C": "Planetesimals",
+    "option D": "Protoplanets",
+    "answer": "C"
   },
   {
-    "question_number": 308,
+    "number": 308,
     "question": "Who proposed the three laws of planetary motion?",
-    "options": {
-      "A": "Isaac Newton",
-      "B": "Galileo Galilei",
-      "C": "Johannes Kepler",
-      "D": "Nicolaus Copernicus"
-    },
-    "answer": "C"
+    "option A": "Isaac Newton",
+    "option B": "Johannes Kepler",
+    "option C": "Galileo Galilei",
+    "option D": "Nicolaus Copernicus",
+    "answer": "B"
   },
   {
-    "question_number": 309,
+    "number": 309,
     "question": "What is the coordinate in the sky similar to latitude on Earth?",
-    "options": {
-      "A": "Right Ascension",
-      "B": "Azimuth",
-      "C": "Altitude",
-      "D": "Declination"
-    },
+    "option A": "Right Ascension",
+    "option B": "Azimuth",
+    "option C": "Altitude",
+    "option D": "Declination",
     "answer": "D"
   },
   {
-    "question_number": 310,
+    "number": 310,
     "question": "What is the name of India's reusable launch vehicle technology demonstrator?",
-    "options": {
-      "A": "RLV-TD",
-      "B": "PSLV-C",
-      "C": "SSLV-D1",
-      "D": "GSLV-MK3"
-    },
+    "option A": "RLV-TD",
+    "option B": "SLV-3",
+    "option C": "SSLV-1",
+    "option D": "GSLV-MK3",
     "answer": "A"
   },
   {
-    "question_number": 311,
+    "number": 311,
     "question": "What type of planets are Mercury, Venus, Earth, and Mars?",
-    "options": {
-      "A": "Gas Giants",
-      "B": "Ice Giants",
-      "C": "Terrestrial",
-      "D": "Dwarf Planets"
-    },
+    "option A": "Gas Giants",
+    "option B": "Ice Giants",
+    "option C": "Terrestrial",
+    "option D": "Dwarf Planets",
     "answer": "C"
   },
   {
-    "question_number": 312,
+    "number": 312,
     "question": "What is the curved shape of planetary orbits called?",
-    "options": {
-      "A": "Parabola",
-      "B": "Ellipse",
-      "C": "Hyperbola",
-      "D": "Circle"
-    },
+    "option A": "Parabola",
+    "option B": "Ellipse",
+    "option C": "Circle",
+    "option D": "Hyperbola",
     "answer": "B"
   },
   {
-    "question_number": 313,
+    "number": 313,
     "question": "What is the coordinate in the sky similar to longitude on Earth?",
-    "options": {
-      "A": "Declination",
-      "B": "Latitude",
-      "C": "Right Ascension",
-      "D": "Zenith Angle"
-    },
+    "option A": "Declination",
+    "option B": "Altitude",
+    "option C": "Right Ascension",
+    "option D": "Zenith",
     "answer": "C"
   },
   {
-    "question_number": 314,
+    "number": 314,
     "question": "What is the name of the docking experiment planned for future Indian space missions?",
-    "options": {
-      "A": "SPADEX",
-      "B": "GAGANYAAN",
-      "C": "ADITYA",
-      "D": "LUPEX"
-    },
-    "answer": "A"
+    "option A": "GAGAN",
+    "option B": "SPADEX",
+    "option C": "ASTROSAT",
+    "option D": "RISAT",
+    "answer": "B"
   },
   {
-    "question_number": 315,
+    "number": 315,
     "question": "What is the boundary region where solar wind slows down before leaving the Solar System?",
-    "options": {
-      "A": "Magnetosphere",
-      "B": "Atmosphere",
-      "C": "Heliosphere",
-      "D": "Photosphere"
-    },
+    "option A": "Kuiper Belt",
+    "option B": "Oort Cloud",
+    "option C": "Heliosphere",
+    "option D": "Magnetosphere",
     "answer": "C"
   },
   {
-    "question_number": 316,
+    "number": 316,
     "question": "What force attracts objects with mass toward each other?",
-    "options": {
-      "A": "Magnetism",
-      "B": "Gravitation",
-      "C": "Friction",
-      "D": "Electrostatic Force"
-    },
-    "answer": "B"
+    "option A": "Magnetism",
+    "option B": "Electromagnetism",
+    "option C": "Friction",
+    "option D": "Gravitation",
+    "answer": "D"
   },
   {
-    "question_number": 317,
+    "number": 317,
     "question": "What is the imaginary sphere on which stars appear to be located?",
-    "options": {
-      "A": "Celestial Sphere",
-      "B": "Exosphere",
-      "C": "Biosphere",
-      "D": "Planetary Nebula"
-    },
+    "option A": "Celestial Sphere",
+    "option B": "Ecliptic Plane",
+    "option C": "Galactic Plane",
+    "option D": "Atmospheric Dome",
     "answer": "A"
   },
   {
-    "question_number": 318,
+    "number": 318,
     "question": "What is the name of the telescope aboard Aditya-L1 that studies the solar corona?",
-    "options": {
-      "A": "SUIT",
-      "B": "VELC",
-      "C": "PAPLI",
-      "D": "HEL1OS"
-    },
+    "option A": "SUIT",
+    "option B": "VELC",
+    "option C": "PAPA",
+    "option D": "SoLEXS",
     "answer": "B"
   },
   {
-    "question_number": 319,
-    "question": "What is the imaginary line passing through Earth's poles?",
-    "options": {
-      "A": "Equator",
-      "B": "Orbit",
-      "C": "Axis",
-      "D": "Tropic of Cancer"
-    },
-    "answer": "C"
+    "number": 319,
+    "question": "What is the imaginary line passing through Earth's poles about which it rotates?",
+    "option A": "Equator",
+    "option B": "Axis",
+    "option C": "Meridian",
+    "option D": "Orbit",
+    "answer": "B"
   },
   {
-    "question_number": 320,
+    "number": 320,
     "question": "What is the imaginary line about which a planet spins?",
-    "options": {
-      "A": "Ecliptic",
-      "B": "Axis",
-      "C": "Meridian",
-      "D": "Orbital Plane"
-    },
-    "answer": "B"
+    "option A": "Axis",
+    "option B": "Ecliptic",
+    "option C": "Horizon",
+    "option D": "Orbit",
+    "answer": "A"
   },
   {
-    "question_number": 321,
+    "number": 321,
     "question": "What is the time taken by the Moon to complete one orbit relative to the stars?",
-    "options": {
-      "A": "Synodic Month",
-      "B": "Solar Year",
-      "C": "Sidereal Month",
-      "D": "Anomalistic Month"
-    },
+    "option A": "Synodic Month",
+    "option B": "Solar Month",
+    "option C": "Sidereal Month",
+    "option D": "Anomalistic Month",
     "answer": "C"
   },
   {
-    "question_number": 322,
+    "number": 322,
     "question": "Which ISRO mission studies the Sun from the L1 point?",
-    "options": {
-      "A": "Chandrayaan-3",
-      "B": "Mangalyaan",
-      "C": "Astrosat",
-      "D": "Aditya-L1"
-    },
-    "answer": "D"
+    "option A": "Chandrayaan-3",
+    "option B": "Aditya-L1",
+    "option C": "Mangalyaan",
+    "option D": "Astrosat",
+    "answer": "B"
   },
   {
-    "question_number": 323,
+    "number": 323,
     "question": "What do we call the tilt of a planet's rotational axis?",
-    "options": {
-      "A": "Orbital Inclination",
-      "B": "Axial Tilt",
-      "C": "Precession",
-      "D": "Eccentricity"
-    },
-    "answer": "B"
+    "option A": "Orbital Inclination",
+    "option B": "Precession",
+    "option C": "Axial Tilt",
+    "option D": "Ecliptic Offset",
+    "answer": "C"
   },
   {
-    "question_number": 324,
+    "number": 324,
     "question": "What do we call the motion of a body around another body?",
-    "options": {
-      "A": "Rotation",
-      "B": "Precession",
-      "C": "Revolution",
-      "D": "Libration"
-    },
+    "option A": "Rotation",
+    "option B": "Precession",
+    "option C": "Revolution",
+    "option D": "Libration",
     "answer": "C"
   },
   {
-    "question_number": 325,
+    "number": 325,
     "question": "What is the time between two full moons called?",
-    "options": {
-      "A": "Synodic Month",
-      "B": "Sidereal Month",
-      "C": "Solar Month",
-      "D": "Tropical Month"
-    },
-    "answer": "A"
+    "option A": "Sidereal Month",
+    "option B": "Synodic Month",
+    "option C": "Draconic Month",
+    "option D": "Solar Month",
+    "answer": "B"
   },
   {
-    "question_number": 326,
+    "number": 326,
     "question": "What is the full form of SDSC?",
-    "options": {
-      "A": "Satish Dhawan Space Centre",
-      "B": "Space Development and Science Centre",
-      "C": "Solar Data Service Centre",
-      "D": "Southern Defense Space Command"
-    },
-    "answer": "A"
+    "option A": "Space Development and Science Centre",
+    "option B": "Satish Dhawan Space Centre",
+    "option C": "Space Applications Satellite Centre",
+    "option D": "System Dynamics Space Centre",
+    "answer": "B"
   },
   {
-    "question_number": 327,
+    "number": 327,
     "question": "Which spacecraft was the first to orbit Mercury?",
-    "options": {
-      "A": "Mariner 10",
-      "B": "BepiColombo",
-      "C": "Messenger",
-      "D": "Voyager 1"
-    },
-    "answer": "C"
+    "option A": "Mariner 10",
+    "option B": "Messenger",
+    "option C": "BepiColombo",
+    "option D": "Voyager 2",
+    "answer": "B"
   },
   {
-    "question_number": 328,
+    "number": 328,
     "question": "What force keeps a satellite moving in a circular path?",
-    "options": {
-      "A": "Centrifugal Force",
-      "B": "Centripetal Force",
-      "C": "Frictional Force",
-      "D": "Nuclear Force"
-    },
-    "answer": "B"
+    "option A": "Centrifugal force",
+    "option B": "Frictional force",
+    "option C": "Centripetal force",
+    "option D": "Nuclear force",
+    "answer": "C"
   },
   {
-    "question_number": 329,
+    "number": 329,
     "question": "What is the region of Earth's shadow where the shadow is partial during an eclipse?",
-    "options": {
-      "A": "Umbra",
-      "B": "Penumbra",
-      "C": "Antumbra",
-      "D": "Corona"
-    },
+    "option A": "Umbra",
+    "option B": "Penumbra",
+    "option C": "Antumbra",
+    "option D": "Corona",
     "answer": "B"
   },
   {
-    "question_number": 330,
+    "number": 330,
     "question": "Which ISRO centre operates the launch facilities at Sriharikota?",
-    "options": {
-      "A": "VSSC",
-      "B": "URSC",
-      "C": "SDSC",
-      "D": "SAC"
-    },
+    "option A": "Vikram Sarabhai Space Centre (VSSC)",
+    "option B": "UR Rao Satellite Centre (URSC)",
+    "option C": "Satish Dhawan Space Centre (SDSC)",
+    "option D": "Space Applications Centre (SAC)",
     "answer": "C"
   },
   {
-    "question_number": 331,
+    "number": 331,
     "question": "Which rover first successfully landed and moved on Mars in 1997?",
-    "options": {
-      "A": "Curiosity",
-      "B": "Opportunity",
-      "C": "Sojourner",
-      "D": "Perseverance"
-    },
-    "answer": "C"
+    "option A": "Curiosity",
+    "option B": "Sojourner",
+    "option C": "Spirit",
+    "option D": "Perseverance",
+    "answer": "B"
   },
   {
-    "question_number": 332,
+    "number": 332,
     "question": "What is the minimum speed required to leave Earth's gravity?",
-    "options": {
-      "A": "Orbital Velocity",
-      "B": "Terminal Velocity",
-      "C": "Escape Velocity",
-      "D": "Relativistic Speed"
-    },
+    "option A": "Orbital velocity",
+    "option B": "Terminal velocity",
+    "option C": "Escape velocity",
+    "option D": "Light speed",
     "answer": "C"
   },
   {
-    "question_number": 333,
+    "number": 333,
     "question": "What is the thin ring of sunlight visible during a ring-shaped solar eclipse called?",
-    "options": {
-      "A": "Corona",
-      "B": "Annulus",
-      "C": "Prominence",
-      "D": "Flare"
-    },
+    "option A": "Corona",
+    "option B": "Annulus",
+    "option C": "Penumbra",
+    "option D": "Diamond Ring",
     "answer": "B"
   },
   {
-    "question_number": 334,
+    "number": 334,
     "question": "What is a spacecraft designed to travel through space without astronauts called?",
-    "options": {
-      "A": "Space Station",
-      "B": "Shuttle",
-      "C": "Probe",
-      "D": "Capsule"
-    },
-    "answer": "C"
+    "option A": "Probe",
+    "option B": "Shuttle",
+    "option C": "Space Station",
+    "option D": "Capsule",
+    "answer": "A"
   },
   {
-    "question_number": 335,
+    "number": 335,
     "question": "Which spacecraft provided the first close images of Pluto?",
-    "options": {
-      "A": "Voyager 2",
-      "B": "New Horizons",
-      "C": "Cassini",
-      "D": "Pioneer 10"
-    },
+    "option A": "Voyager 1",
+    "option B": "New Horizons",
+    "option C": "Pioneer 10",
+    "option D": "Cassini",
     "answer": "B"
   },
   {
-    "question_number": 336,
+    "number": 336,
     "question": "What do we call a man-made object placed in orbit?",
-    "options": {
-      "A": "Natural Satellite",
-      "B": "Artificial Satellite",
-      "C": "Asteroid",
-      "D": "Comet"
-    },
+    "option A": "Natural satellite",
+    "option B": "Artificial satellite",
+    "option C": "Meteorite",
+    "option D": "Asteroid",
     "answer": "B"
   },
   {
-    "question_number": 337,
+    "number": 337,
     "question": "What is the name of the ring-shaped solar eclipse?",
-    "options": {
-      "A": "Total",
-      "B": "Partial",
-      "C": "Penumbral",
-      "D": "Annular"
-    },
-    "answer": "D"
+    "option A": "Total",
+    "option B": "Partial",
+    "option C": "Annular",
+    "option D": "Penumbral",
+    "answer": "C"
   },
   {
-    "question_number": 338,
+    "number": 338,
     "question": "Which satellite was launched by SLV-3 in 1980?",
-    "options": {
-      "A": "Aryabhata",
-      "B": "Rohini",
-      "C": "INSAT-1A",
-      "D": "Bhaskara"
-    },
-    "answer": "B"
+    "option A": "Aryabhata",
+    "option B": "Bhaskara-I",
+    "option C": "Rohini",
+    "option D": "APPLE",
+    "answer": "C"
   },
   {
-    "question_number": 339,
+    "number": 339,
     "question": "Which spacecraft first visited Jupiter and sent detailed images in the 1990s?",
-    "options": {
-      "A": "Galileo",
-      "B": "Juno",
-      "C": "Cassini",
-      "D": "Viking"
-    },
-    "answer": "A"
+    "option A": "Cassini",
+    "option B": "Galileo",
+    "option C": "Juno",
+    "option D": "Mariner 10",
+    "answer": "B"
   },
   {
-    "question_number": 340,
+    "number": 340,
     "question": "What is the study of motion of objects in space called?",
-    "options": {
-      "A": "Astrophysics",
-      "B": "Cosmology",
-      "C": "Astrodynamics",
-      "D": "Geophysics"
-    },
-    "answer": "C"
+    "option A": "Astrodynamics",
+    "option B": "Astrophysics",
+    "option C": "Cosmology",
+    "option D": "Aerodynamics",
+    "answer": "A"
   },
   {
-    "question_number": 341,
+    "number": 341,
     "question": "What is the dark plain on the Moon formed by ancient lava flows?",
-    "options": {
-      "A": "Crater",
-      "B": "Mare",
-      "C": "Highland",
-      "D": "Rille"
-    },
-    "answer": "B"
+    "option A": "Crater",
+    "option B": "Rille",
+    "option C": "Mare",
+    "option D": "Highland",
+    "answer": "C"
   },
   {
-    "question_number": 342,
+    "number": 342,
     "question": "What is the name of the Indian satellite launch vehicle that first successfully placed a satellite in orbit in 1980?",
-    "options": {
-      "A": "PSLV",
-      "B": "Satellite Launch Vehicle-3 (SLV-3)",
-      "C": "GSLV",
-      "D": "SSLV"
-    },
+    "option A": "PSLV",
+    "option B": "SLV-3",
+    "option C": "ASLV",
+    "option D": "GSLV",
     "answer": "B"
   },
   {
-    "question_number": 343,
+    "number": 343,
     "question": "What is the largest canyon on Mars called?",
-    "options": {
-      "A": "Olympus Mons",
-      "B": "Valles Marineris",
-      "C": "Hellas Basin",
-      "D": "Grand Canyon"
-    },
+    "option A": "Olympus Mons",
+    "option B": "Valles Marineris",
+    "option C": "Hellas Basin",
+    "option D": "Gale Crater",
     "answer": "B"
   },
   {
-    "question_number": 344,
+    "number": 344,
     "question": "What part of a rocket produces thrust?",
-    "options": {
-      "A": "Payload Fairing",
-      "B": "Fins",
-      "C": "Engine",
-      "D": "Guidance System"
-    },
+    "option A": "Fairing",
+    "option B": "Payload",
+    "option C": "Engine",
+    "option D": "Fin",
     "answer": "C"
   },
   {
-    "question_number": 345,
+    "number": 345,
     "question": "What do we call the bright highland regions of the Moon?",
-    "options": {
-      "A": "Maria",
-      "B": "Highlands",
-      "C": "Valleys",
-      "D": "Basins"
-    },
+    "option A": "Maria",
+    "option B": "Highlands",
+    "option C": "Basins",
+    "option D": "Troughs",
     "answer": "B"
   },
   {
-    "question_number": 346,
+    "number": 346,
     "question": "In which year was INCOSPAR established?",
-    "options": {
-      "A": "1962",
-      "B": "1969",
-      "C": "1975",
-      "D": "1980"
-    },
+    "option A": "1962",
+    "option B": "1969",
+    "option C": "1975",
+    "option D": "1957",
     "answer": "A"
   },
   {
-    "question_number": 347,
+    "number": 347,
     "question": "What is the largest impact basin on Mars?",
-    "options": {
-      "A": "Gale Crater",
-      "B": "Hellas",
-      "C": "Jezero Crater",
-      "D": "Chicxulub"
-    },
+    "option A": "Valles Marineris",
+    "option B": "Hellas",
+    "option C": "Utopia",
+    "option D": "Chryse",
     "answer": "B"
   },
   {
-    "question_number": 348,
+    "number": 348,
     "question": "What is the rear opening of a rocket engine called?",
-    "options": {
-      "A": "Combustion Chamber",
-      "B": "Nozzle",
-      "C": "Turbopump",
-      "D": "Igniter"
-    },
+    "option A": "Combustion Chamber",
+    "option B": "Nozzle",
+    "option C": "Fuel Tank",
+    "option D": "Gimbal",
     "answer": "B"
   },
   {
-    "question_number": 349,
+    "number": 349,
     "question": "What is the boundary between the lighted and dark part of the Moon called?",
-    "options": {
-      "A": "Terminator",
-      "B": "Limb",
-      "C": "Ecliptic",
-      "D": "Shadow Line"
-    },
-    "answer": "A"
+    "option A": "Ecliptic",
+    "option B": "Terminator",
+    "option C": "Limb",
+    "option D": "Horizon",
+    "answer": "B"
   },
   {
-    "question_number": 350,
+    "number": 350,
     "question": "What was the earlier organization that later became ISRO?",
-    "options": {
-      "A": "DRDO",
-      "B": "INCOSPAR",
-      "C": "CSIR",
-      "D": "HAL"
-    },
-    "answer": "B"
+    "option A": "INCOSPAR",
+    "option B": "DRDO",
+    "option C": "HAL",
+    "option D": "CSIR",
+    "answer": "A"
   },
   {
-    "question_number": 351,
+    "number": 351,
     "question": "Which moon of Uranus has extremely varied and strange terrain?",
-    "options": {
-      "A": "Titania",
-      "B": "Oberon",
-      "C": "Miranda",
-      "D": "Ariel"
-    },
-    "answer": "C"
+    "option A": "Titania",
+    "option B": "Miranda",
+    "option C": "Oberon",
+    "option D": "Ariel",
+    "answer": "B"
   },
   {
-    "question_number": 352,
+    "number": 352,
     "question": "What type of orbit passes over both poles of Earth?",
-    "options": {
-      "A": "Geostationary Orbit",
-      "B": "Polar Orbit",
-      "C": "Equatorial Orbit",
-      "D": "Lagrange Orbit"
-    },
-    "answer": "B"
+    "option A": "Equatorial orbit",
+    "option B": "Geostationary orbit",
+    "option C": "Polar orbit",
+    "option D": "Lagrange orbit",
+    "answer": "C"
   },
   {
-    "question_number": 353,
+    "number": 353,
     "question": "What is the layer of loose dust covering the Moon's surface called?",
-    "options": {
-      "A": "Magma",
-      "B": "Regolith",
-      "C": "Silt",
-      "D": "Crust"
-    },
+    "option A": "Magma",
+    "option B": "Regolith",
+    "option C": "Basalt",
+    "option D": "Tektite",
     "answer": "B"
   },
   {
-    "question_number": 354,
+    "number": 354,
     "question": "Who founded the Indian National Committee for Space Research (INCOSPAR)?",
-    "options": {
-      "A": "A.P.J. Abdul Kalam",
-      "B": "Homi Bhabha",
-      "C": "Vikram Sarabhai",
-      "D": "Satish Dhawan"
-    },
+    "option A": "A. P. J. Abdul Kalam",
+    "option B": "Satish Dhawan",
+    "option C": "Vikram Sarabhai",
+    "option D": "Homi Bhabha",
     "answer": "C"
   },
   {
-    "question_number": 355,
+    "number": 355,
     "question": "What is the small body that orbits the Sun but is smaller than an asteroid called?",
-    "options": {
-      "A": "Meteoroid",
-      "B": "Comet",
-      "C": "Dwarf Planet",
-      "D": "Moon"
-    },
+    "option A": "Meteoroid",
+    "option B": "Comet",
+    "option C": "Dwarf Planet",
+    "option D": "Moon",
     "answer": "A"
   },
   {
-    "question_number": 356,
+    "number": 356,
     "question": "What orbit keeps satellites fixed over one point on Earth?",
-    "options": {
-      "A": "Low Earth Orbit",
-      "B": "Geostationary",
-      "C": "Sun-Synchronous Orbit",
-      "D": "Polar Orbit"
-    },
+    "option A": "Low Earth Orbit",
+    "option B": "Geostationary",
+    "option C": "Polar Orbit",
+    "option D": "Sun-synchronous Orbit",
     "answer": "B"
   },
   {
-    "question_number": 357,
+    "number": 357,
     "question": "What is the force responsible for tides due to differences in gravitational pull?",
-    "options": {
-      "A": "Coriolis Force",
-      "B": "Tidal Force",
-      "C": "Magnetic Force",
-      "D": "Frictional Force"
-    },
+    "option A": "Centrifugal Force",
+    "option B": "Tidal Force",
+    "option C": "Coriolis Force",
+    "option D": "Magnetic Force",
     "answer": "B"
   },
   {
-    "question_number": 358,
+    "number": 358,
     "question": "What is the name of India's X-ray astronomy satellite launched in 2015?",
-    "options": {
-      "A": "Astrosat",
-      "B": "RISAT",
-      "C": "Cartosat",
-      "D": "GSAT"
-    },
+    "option A": "Astrosat",
+    "option B": "Cartosat",
+    "option C": "GSAT-15",
+    "option D": "XPoSat",
     "answer": "A"
   },
   {
-    "question_number": 359,
+    "number": 359,
     "question": "What is the second tail of a comet made of charged particles called?",
-    "options": {
-      "A": "Dust Tail",
-      "B": "Ion Tail",
-      "C": "Gas Cloud",
-      "D": "Debris Trail"
-    },
+    "option A": "Dust Tail",
+    "option B": "Ion Tail",
+    "option C": "Debris Trail",
+    "option D": "Coma",
     "answer": "B"
   },
   {
-    "question_number": 360,
+    "number": 360,
     "question": "What scientific field studies rockets and spacecraft propulsion?",
-    "options": {
-      "A": "Aeronautics",
-      "B": "Astronautics",
-      "C": "Geology",
-      "D": "Meteorology"
-    },
-    "answer": "B"
+    "option A": "Astronomy",
+    "option B": "Astrophysics",
+    "option C": "Astronautics",
+    "option D": "Aeronautics",
+    "answer": "C"
   },
   {
-    "question_number": 361,
+    "number": 361,
     "question": "What do we call the point in the Moon's orbit closest to Earth?",
-    "options": {
-      "A": "Apogee",
-      "B": "Perigee",
-      "C": "Perihelion",
-      "D": "Aphelion"
-    },
+    "option A": "Apogee",
+    "option B": "Perigee",
+    "option C": "Perihelion",
+    "option D": "Aphelion",
     "answer": "B"
   },
   {
-    "question_number": 362,
+    "number": 362,
     "question": "Which moon of Jupiter has a smooth icy surface with cracks?",
-    "options": {
-      "A": "Io",
-      "B": "Europa",
-      "C": "Ganymede",
-      "D": "Callisto"
-    },
+    "option A": "Io",
+    "option B": "Europa",
+    "option C": "Ganymede",
+    "option D": "Callisto",
     "answer": "B"
   },
   {
-    "question_number": 363,
+    "number": 363,
     "question": "What is the name of the radar imaging satellite launched by ISRO for Earth observation?",
-    "options": {
-      "A": "Radar Imaging Satellite (RISAT)",
-      "B": "Oceansat",
-      "C": "EDUSAT",
-      "D": "INSAT"
-    },
+    "option A": "RISAT",
+    "option B": "INSAT",
+    "option C": "Oceansat",
+    "option D": "GSAT",
     "answer": "A"
   },
   {
-    "question_number": 364,
+    "number": 364,
     "question": "What is the fuel-burning device in rockets called?",
-    "options": {
-      "A": "Payload Bay",
-      "B": "Combustion chamber",
-      "C": "Fuel Tank",
-      "D": "Nozzle Extension"
-    },
+    "option A": "Payload Fairing",
+    "option B": "Combustion chamber",
+    "option C": "Turbopump",
+    "option D": "Nozzle cone",
     "answer": "B"
   },
   {
-    "question_number": 365,
+    "number": 365,
     "question": "What do we call the point in the Moon's orbit farthest from Earth?",
-    "options": {
-      "A": "Apogee",
-      "B": "Perigee",
-      "C": "Zenith",
-      "D": "Nadir"
-    },
-    "answer": "A"
+    "option A": "Perigee",
+    "option B": "Perihelion",
+    "option C": "Apogee",
+    "option D": "Aphelion",
+    "answer": "C"
   },
   {
-    "question_number": 366,
+    "number": 366,
     "question": "Which Indian satellite series provides high-resolution Earth images?",
-    "options": {
-      "A": "GSAT",
-      "B": "Cartosat",
-      "C": "NavIC",
-      "D": "IRNSS"
-    },
-    "answer": "B"
+    "option A": "Cartosat",
+    "option B": "GSAT",
+    "option C": "NavIC",
+    "option D": "IRNSS",
+    "answer": "A"
   },
   {
-    "question_number": 367,
+    "number": 367,
     "question": "Which moon of Jupiter is heavily cratered and very old?",
-    "options": {
-      "A": "Callisto",
-      "B": "Europa",
-      "C": "Io",
-      "D": "Titan"
-    },
-    "answer": "A"
+    "option A": "Io",
+    "option B": "Europa",
+    "option C": "Callisto",
+    "option D": "Titan",
+    "answer": "C"
   },
   {
-    "question_number": 368,
+    "number": 368,
     "question": "What material combines with fuel to allow burning in rockets?",
-    "options": {
-      "A": "Coolant",
-      "B": "Oxidizer",
-      "C": "Nitrogen Gas",
-      "D": "Hydrazine"
-    },
+    "option A": "Coolant",
+    "option B": "Oxidizer",
+    "option C": "Catalyst",
+    "option D": "Inert Gas",
     "answer": "B"
   },
   {
-    "question_number": 369,
+    "number": 369,
     "question": "What is the point in Earth's orbit closest to the Sun?",
-    "options": {
-      "A": "Aphelion",
-      "B": "Perihelion",
-      "C": "Perigee",
-      "D": "Solstice"
-    },
+    "option A": "Aphelion",
+    "option B": "Perihelion",
+    "option C": "Perigee",
+    "option D": "Apogee",
     "answer": "B"
   },
   {
-    "question_number": 370,
+    "number": 370,
     "question": "What does IRNSS stand for?",
-    "options": {
-      "A": "International Radar and Navigation Satellite System",
-      "B": "Indian Regional Navigation Satellite System",
-      "C": "Indian Remote Navigation Satellite Service",
-      "D": "Integrated Regional Radio Navigation System"
-    },
-    "answer": "B"
+    "option A": "Indian Regional Navigation Satellite System",
+    "option B": "International Radar and Navigation Space System",
+    "option C": "Indian Remote Network Satellite System",
+    "option D": "Integrated Rocket and Navigation Space Series",
+    "answer": "A"
   },
   {
-    "question_number": 371,
+    "number": 371,
     "question": "What is the second-largest moon of Saturn?",
-    "options": {
-      "A": "Titan",
-      "B": "Enceladus",
-      "C": "Rhea",
-      "D": "Mimas"
-    },
+    "option A": "Titan",
+    "option B": "Enceladus",
+    "option C": "Rhea",
+    "option D": "Mimas",
     "answer": "C"
   },
   {
-    "question_number": 372,
+    "number": 372,
     "question": "What satellite system provides global positioning services in India?",
-    "options": {
-      "A": "Navigation with Indian Constellation (NavIC)",
-      "B": "GLONASS",
-      "C": "Galileo",
-      "D": "IRS"
-    },
-    "answer": "A"
+    "option A": "INSAT",
+    "option B": "NavIC",
+    "option C": "Cartosat",
+    "option D": "Astrosat",
+    "answer": "B"
   },
   {
-    "question_number": 373,
+    "number": 373,
     "question": "What is the point in Earth's orbit farthest from the Sun?",
-    "options": {
-      "A": "Perihelion",
-      "B": "Aphelion",
-      "C": "Apogee",
-      "D": "Equinox"
-    },
+    "option A": "Perihelion",
+    "option B": "Aphelion",
+    "option C": "Apogee",
+    "option D": "Perigee",
     "answer": "B"
   },
   {
-    "question_number": 374,
+    "number": 374,
     "question": "What is the name of the propulsion module used in Chandrayaan-3?",
-    "options": {
-      "A": "Orbiter",
-      "B": "Vikram Lander",
-      "C": "Propulsion Module",
-      "D": "Pragyan Rover"
-    },
-    "answer": "C"
+    "option A": "Propulsion Module",
+    "option B": "Vikram Stage",
+    "option C": "Orbiter Unit",
+    "option D": "Transfer Booster",
+    "answer": "A"
   },
   {
-    "question_number": 375,
+    "number": 375,
     "question": "Which moon of Saturn has geysers that spray water into space?",
-    "options": {
-      "A": "Titan",
-      "B": "Enceladus",
-      "C": "Iapetus",
-      "D": "Dione"
-    },
+    "option A": "Titan",
+    "option B": "Enceladus",
+    "option C": "Dione",
+    "option D": "Iapetus",
     "answer": "B"
   },
   {
-    "question_number": 376,
+    "number": 376,
     "question": "What is the gradual dropping of rocket stages called?",
-    "options": {
-      "A": "Separation",
-      "B": "Staging",
-      "C": "Jettisoning",
-      "D": "Deployment"
-    },
+    "option A": "Decoupling",
+    "option B": "Staging",
+    "option C": "Separation",
+    "option D": "Jettisoning",
     "answer": "B"
   },
   {
-    "question_number": 378,
+    "number": 377,
+    "question": "What do we call stars that move together through space as a group?",
+    "option A": "Constellation",
+    "option B": "Galaxy",
+    "option C": "Cluster",
+    "option D": "Nebula",
+    "answer": "C"
+  },
+  {
+    "number": 378,
     "question": "Which Chandrayaan mission successfully soft-landed on the Moon?",
-    "options": {
-      "A": "Chandrayaan-1",
-      "B": "Chandrayaan-2",
-      "C": "Chandrayaan-3",
-      "D": "Chandrayaan-4"
-    },
+    "option A": "Chandrayaan-1",
+    "option B": "Chandrayaan-2",
+    "option C": "Chandrayaan-3",
+    "option D": "Chandrayaan-4",
     "answer": "C"
   },
   {
-    "question_number": 379,
+    "number": 379,
     "question": "Which spacecraft carried the Huygens probe to Titan?",
-    "options": {
-      "A": "Voyager 1",
-      "B": "Cassini",
-      "C": "Pioneer 11",
-      "D": "Juno"
-    },
+    "option A": "Voyager 1",
+    "option B": "Cassini",
+    "option C": "Galileo",
+    "option D": "Pioneer 11",
     "answer": "B"
   },
   {
-    "question_number": 380,
+    "number": 380,
     "question": "What protects satellites from air during launch?",
-    "options": {
-      "A": "Thermal Blanket",
-      "B": "Payload fairing",
-      "C": "Solar Panels",
-      "D": "Heat Shield"
-    },
+    "option A": "Payload fairing",
+    "option B": "Heat shield",
+    "option C": "Solar panel",
+    "option D": "Thruster cover",
+    "answer": "A"
+  },
+  {
+    "number": 381,
+    "question": "What do we call a group of young hot stars formed from the same cloud?",
+    "option A": "Globular Cluster",
+    "option B": "Open Cluster",
+    "option C": "Spiral Arm",
+    "option D": "Planetary System",
     "answer": "B"
   },
   {
-    "question_number": 382,
+    "number": 382,
     "question": "What was the primary objective of the Mars Orbiter Mission?",
-    "options": {
-      "A": "Search for liquid oceans",
-      "B": "Study Mars atmosphere",
-      "C": "Land astronauts on Mars",
-      "D": "Collect soil samples for return"
-    },
+    "option A": "Search for liquid oceans",
+    "option B": "Study Mars atmosphere",
+    "option C": "Build a surface base",
+    "option D": "Collect soil samples for Earth return",
     "answer": "B"
   },
   {
-    "question_number": 383,
+    "number": 383,
     "question": "What phenomenon occurs when Earth passes through a meteoroid stream?",
-    "options": {
-      "A": "Solar Flare",
-      "B": "Meteor Shower",
-      "C": "Aurora",
-      "D": "Geomagnetic Storm"
-    },
+    "option A": "Solar Eclipse",
+    "option B": "Meteor Shower",
+    "option C": "Aurora",
+    "option D": "Geomagnetic Storm",
     "answer": "B"
   },
   {
-    "question_number": 384,
+    "number": 384,
     "question": "Which mission made India the first country to reach Mars orbit in its first attempt?",
-    "options": {
-      "A": "Mangalyaan",
-      "B": "Chandrayaan-1",
-      "C": "Astrosat",
-      "D": "Aditya-L1"
-    },
-    "answer": "A"
+    "option A": "Chandrayaan-1",
+    "option B": "Mangalyaan",
+    "option C": "Aditya-L1",
+    "option D": "Astrosat",
+    "answer": "B"
   },
   {
-    "question_number": 385,
+    "number": 385,
     "question": "What is the region between the Sun's atmosphere and interstellar space called?",
-    "options": {
-      "A": "Stratosphere",
-      "B": "Heliosphere",
-      "C": "Ionosphere",
-      "D": "Exosphere"
-    },
-    "answer": "B"
+    "option A": "Heliosphere",
+    "option B": "Stratosphere",
+    "option C": "Exosphere",
+    "option D": "Magnetosphere",
+    "answer": "A"
   },
   {
-    "question_number": 386,
+    "number": 386,
     "question": "What part of a satellite sends radio signals?",
-    "options": {
-      "A": "Receiver",
-      "B": "Transmitter",
-      "C": "Solar Array",
-      "D": "Gyrometer"
-    },
-    "answer": "B"
+    "option A": "Transmitter",
+    "option B": "Solar Cell",
+    "option C": "Gyroscope",
+    "option D": "Magnetometer",
+    "answer": "A"
   },
   {
-    "question_number": 387,
+    "number": 387,
     "question": "What do we call a huge cloud of gas and dust where stars are born?",
-    "options": {
-      "A": "Galaxy",
-      "B": "Nebula",
-      "C": "Black Hole",
-      "D": "Quasar"
-    },
-    "answer": "B"
+    "option A": "Galaxy",
+    "option B": "Black Hole",
+    "option C": "Nebula",
+    "option D": "Asteroid Belt",
+    "answer": "C"
   },
   {
-    "question_number": 388,
+    "number": 388,
     "question": "Which ISRO centre manages remote sensing data in Hyderabad?",
-    "options": {
-      "A": "National Remote Sensing Centre (NRSC)",
-      "B": "VSSC",
-      "C": "SAC",
-      "D": "ISTRAC"
-    },
+    "option A": "National Remote Sensing Centre (NRSC)",
+    "option B": "Space Applications Centre (SAC)",
+    "option C": "UR Rao Satellite Centre (URSC)",
+    "option D": "Vikram Sarabhai Space Centre (VSSC)",
     "answer": "A"
   },
   {
-    "question_number": 389,
+    "number": 389,
     "question": "What term describes objects that cross Earth's orbit and could impact Earth?",
-    "options": {
-      "A": "Trans-Neptunian Objects",
-      "B": "Near-Earth Objects",
-      "C": "Main Belt Asteroids",
-      "D": "Kuiper Belt Objects"
-    },
+    "option A": "Trans-Neptunian Objects",
+    "option B": "Near-Earth Objects",
+    "option C": "Oort Cloud Objects",
+    "option D": "Kuiper Belt Objects",
     "answer": "B"
   },
   {
-    "question_number": 390,
+    "number": 390,
     "question": "What orbit is commonly used by Earth observation satellites?",
-    "options": {
-      "A": "Geostationary Orbit",
-      "B": "Sun-synchronous",
-      "C": "Geosynchronous Orbit",
-      "D": "Lunar Transfer Orbit"
-    },
+    "option A": "Geostationary orbit",
+    "option B": "Sun-synchronous",
+    "option C": "Transfer orbit",
+    "option D": "High Earth orbit",
     "answer": "B"
   },
   {
-    "question_number": 392,
+    "number": 391,
+    "question": "What is the type of nebula formed by exploding stars?",
+    "option A": "Dark Nebula",
+    "option B": "Supernova Remnant",
+    "option C": "Emission Nebula",
+    "option D": "Reflection Nebula",
+    "answer": "B"
+  },
+  {
+    "number": 392,
     "question": "What is the earlier name of the NavIC satellite system?",
-    "options": {
-      "A": "INSAT",
-      "B": "Indian Regional Navigation Satellite System (IRNSS)",
-      "C": "IRS",
-      "D": "GAGAN"
-    },
-    "answer": "B"
+    "option A": "GAGAN",
+    "option B": "IRS",
+    "option C": "Indian Regional Navigation Satellite System (IRNSS)",
+    "option D": "INSAT",
+    "answer": "C"
   },
   {
-    "question_number": 393,
+    "number": 393,
     "question": "What is the force that keeps planets moving around the Sun?",
-    "options": {
-      "A": "Electromagnetic Force",
-      "B": "Gravity",
-      "C": "Strong Nuclear Force",
-      "D": "Atmospheric Pressure"
-    },
+    "option A": "Magnetism",
+    "option B": "Gravity",
+    "option C": "Solar Pressure",
+    "option D": "Friction",
     "answer": "B"
   },
   {
-    "question_number": 394,
+    "number": 394,
     "question": "What region of space contains many artificial satellites?",
-    "options": {
-      "A": "Earth's orbit",
-      "B": "Asteroid Belt",
-      "C": "Interstellar Space",
-      "D": "Lunar Surface"
-    },
-    "answer": "A"
-  },
-  {
-    "question_number": 396,
-    "question": "What is the name of India's first dedicated navigation satellite launched in 2013?",
-    "options": {
-      "A": "Indian Regional Navigation Satellite System-1A (IRNSS-1A)",
-      "B": "INSAT-1A",
-      "C": "GSAT-14",
-      "D": "Cartosat-1"
-    },
-    "answer": "A"
-  },
-  {
-    "question_number": 397,
-    "question": "What type of asteroid is mostly made of metals like iron and nickel?",
-    "options": {
-      "A": "Carbonaceous",
-      "B": "Silicate",
-      "C": "Metallic",
-      "D": "Icy"
-    },
-    "answer": "C"
-  },
-  {
-    "question_number": 398,
-    "question": "What rocket scientist developed the rocket equation?",
-    "options": {
-      "A": "Robert Goddard",
-      "B": "Konstantin Tsiolkovsky",
-      "C": "Wernher von Braun",
-      "D": "Hermann Oberth"
-    },
+    "option A": "Asteroid belt",
+    "option B": "Earth's orbit",
+    "option C": "Lunar surface",
+    "option D": "Interstellar space",
     "answer": "B"
   },
   {
-    "question_number": 399,
-    "question": "What do we call the outermost region of the Sun's atmosphere?",
-    "options": {
-      "A": "Photosphere",
-      "B": "Chromosphere",
-      "C": "Corona",
-      "D": "Core"
-    },
+    "number": 395,
+    "question": "What do we call a rapidly spinning neutron star emitting radio waves?",
+    "option A": "White Dwarf",
+    "option B": "Pulsar",
+    "option C": "Quasar",
+    "option D": "Red Giant",
+    "answer": "B"
+  },
+  {
+    "number": 396,
+    "question": "What is the name of India's first dedicated navigation satellite launched in 2013?",
+    "option A": "INSAT-1A",
+    "option B": "GSAT-14",
+    "option C": "Indian Regional Navigation Satellite System-1A (IRNSS-1A)",
+    "option D": "Aryabhata",
     "answer": "C"
   },
   {
-    "question_number": 400,
-    "question": "What is the full form of NRSC?",
-    "options": {
-      "A": "National Remote Sensing Centre",
-      "B": "National Rocket Science Council",
-      "C": "National Space Research Committee",
-      "D": "Navigational Satellite Research Centre"
-    },
+    "number": 397,
+    "question": "What type of asteroid is mostly made of metals like iron and nickel?",
+    "option A": "Carbonaceous",
+    "option B": "Silicate",
+    "option C": "Metallic",
+    "option D": "Icy",
+    "answer": "C"
+  },
+  {
+    "number": 398,
+    "question": "What rocket scientist developed the rocket equation?",
+    "option A": "Konstantin Tsiolkovsky",
+    "option B": "Wernher von Braun",
+    "option C": "Robert Goddard",
+    "option D": "Hermann Oberth",
     "answer": "A"
-  }
+  },
+  {
+    "number": 399,
+    "question": "What do we call the outermost region of the Sun's atmosphere?",
+    "option A": "Photosphere",
+    "option B": "Chromosphere",
+    "option C": "Corona",
+    "option D": "Core",
+    "answer": "C"
+  },
+  {
+    "number": 400,
+    "question": "What is the full form of NRSC?",
+    "option A": "National Remote Sensing Centre",
+    "option B": "National Rocket Science Centre",
+    "option C": "National Regional Space Centre",
+    "option D": "Navigational Remote Satellite Centre",
+    "answer": "A"
+  } 
 ]
