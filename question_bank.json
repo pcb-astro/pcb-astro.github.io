@@ -4174,5 +4174,1130 @@
     "option C": "High specific impulse efficiency",
     "option D": "Heavy structural mass for launch stability",
     "answer": "C"
+  },
+  {
+    "number": "EQ: Meteor Impact Craters: 1",
+    "question": "Which of the following is the largest known meteor impact crater in the world?",
+    "option A": "Vredefort Crater, South Africa",
+    "option B": "Chicxulub Crater, Mexico",
+    "option C": "Barringer Crater, USA",
+    "option D": "Sudbury Basin, Canada",
+    "answer": "A"
+  },
+  {
+    "number": "EQ: Meteor Impact Craters: 2",
+    "question": "Which meteor impact crater is located in the state of Maharashtra, India?",
+    "option A": "Ramgarh Crater",
+    "option B": "Lonar Lake Crater",
+    "option C": "Dhala Crater",
+    "option D": "Shiva Structure",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: Meteor Impact Craters: 3",
+    "question": "In which Indian state is the ancient Dhala meteor impact crater located?",
+    "option A": "Rajasthan",
+    "option B": "Gujarat",
+    "option C": "Madhya Pradesh",
+    "option D": "Odisha",
+    "answer": "C"
+  },
+  {
+    "number": "EQ: Meteor Impact Craters: 4",
+    "question": "Which region or state in India houses the Ramgarh meteor impact crater structure?",
+    "option A": "Rajasthan",
+    "option B": "Maharashtra",
+    "option C": "Madhya Pradesh",
+    "option D": "Karnataka",
+    "answer": "A"
+  },
+  {
+    "number": "EQ: Spacecraft Missions: 1",
+    "question": "Which NASA probe became the first spacecraft to enter orbit around Mercury?",
+    "option A": "Mariner 10",
+    "option B": "MESSENGER",
+    "option C": "Pioneer 10",
+    "option D": "Voyager 1",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: Spacecraft Missions: 2",
+    "question": "Which joint ESA/JAXA mission to Mercury is named after the Italian scientist who calculated planetary gravity-assist flybys?",
+    "option A": "Galileo",
+    "option B": "Cassini",
+    "option C": "BepiColombo",
+    "option D": "Hayabusa",
+    "answer": "C"
+  },
+  {
+    "number": "EQ: Spacecraft Missions: 3",
+    "question": "Which USSR mission achieved the first successful soft-landing on another planet (Venus) and transmitted data back to Earth?",
+    "option A": "Venera 7",
+    "option B": "Sputnik 1",
+    "option C": "Luna 9",
+    "option D": "Mars 3",
+    "answer": "A"
+  },
+  {
+    "number": "EQ: Spacecraft Missions: 4",
+    "question": "Which NASA spacecraft mapped approximately 98% of Venus's surface using radar imaging?",
+    "option A": "Venera 13",
+    "option B": "Magellan",
+    "option C": "Mariner 2",
+    "option D": "Dawn",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: Spacecraft Missions: 5",
+    "question": "Which nation became the first to successfully reach Mars orbit on its very first attempt?",
+    "option A": "United States",
+    "option B": "China",
+    "option C": "Soviet Union",
+    "option D": "India (ISRO)",
+    "answer": "D"
+  },
+  {
+    "number": "EQ: Spacecraft Missions: 6",
+    "question": "What nickname was given by NASA engineers to the Ingenuity mini-helicopter deployed on Mars?",
+    "option A": "Ginny",
+    "option B": "Sojourner",
+    "option C": "Percy",
+    "option D": "Flyer",
+    "answer": "A"
+  },
+  {
+    "number": "EQ: Spacecraft Missions: 7",
+    "question": "What primary scientific goal were NASA's Curiosity and Perseverance rovers designed to search for on Mars?",
+    "option A": "Active surface ocean water",
+    "option B": "Traces of ancient microbial life",
+    "option C": "Underground lava tube colonies",
+    "option D": "Dense atmospheric oxygen layers",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: Spacecraft Missions: 8",
+    "question": "Which NASA mission served as Jupiter's first dedicated orbiter and dropped an atmospheric probe into its gas layers?",
+    "option A": "Juno",
+    "option B": "Galileo",
+    "option C": "Cassini",
+    "option D": "Voyager 2",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: Spacecraft Missions: 9",
+    "question": "Which ESA mission launched in 2023 specifically to explore Jupiter's icy moons Ganymede, Callisto, and Europa?",
+    "option A": "Europa Clipper",
+    "option B": "JUICE (Jupiter Icy Moons Explorer)",
+    "option C": "Rosetta",
+    "option D": "Lucy",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: Spacecraft Missions: 10",
+    "question": "Which atmospheric entry probe detached from Cassini and successfully landed on Saturn's largest moon, Titan, in 2005?",
+    "option A": "Huygens",
+    "option B": "Philae",
+    "option C": "Sojourner",
+    "option D": "Stardust",
+    "answer": "A"
+  },
+  {
+    "number": "EQ: Spacecraft Missions: 11",
+    "question": "What distinct geometric shape characterizes the persistent atmospheric storm located at Saturn's North Pole?",
+    "option A": "Circular vortex",
+    "option B": "Hexagon",
+    "option C": "Octagon",
+    "option D": "Spiral arm",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: Spacecraft Missions: 12",
+    "question": "What liquid hydrocarbons fill the weather systems, rivers, and lakes on the surface of Saturn's moon Titan?",
+    "option A": "Liquid ammonia and water",
+    "option B": "Methane and ethane",
+    "option C": "Liquid nitrogen and oxygen",
+    "option D": "Sulfuric acid and water",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: Spacecraft Missions: 13",
+    "question": "Which robotic space probe is the only one in human history to have performed flybys of both Uranus and Neptune?",
+    "option A": "Pioneer 11",
+    "option B": "Voyager 1",
+    "option C": "Voyager 2",
+    "option D": "New Horizons",
+    "answer": "C"
+  },
+  {
+    "number": "EQ: Spacecraft Missions: 14",
+    "question": "Which space probe was the first spacecraft to navigate through the main asteroid belt and visit Jupiter?",
+    "option A": "Pioneer 10",
+    "option B": "Mariner 4",
+    "option C": "Voyager 1",
+    "option D": "Galileo",
+    "answer": "A"
+  },
+  {
+    "number": "EQ: Spacecraft Missions: 15",
+    "question": "What was the main intended purpose of the Golden Records placed aboard both Voyager 1 and Voyager 2 spacecraft?",
+    "option A": "To serve as structural counterweights during acceleration",
+    "option B": "To function as time capsules carrying messages about Earth for potential intelligent life",
+    "option C": "To store backup operational telemetry data for Earth controllers",
+    "option D": "To act as primary solar radiation reflection shields",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: Spacecraft Missions: 16",
+    "question": "Which NASA spacecraft flew past Pluto in 2015 and later conducted an flyby of a Kuiper Belt Object?",
+    "option A": "Dawn",
+    "option B": "Kepler",
+    "option C": "New Horizons",
+    "option D": "Lucy",
+    "answer": "C"
+  },
+  {
+    "number": "EQ: Meteor Showers: 1",
+    "question": "What do astronomers call the single apparent point in the night sky from which meteors in a shower appear to originate?",
+    "option A": "Apex",
+    "option B": "Radiant point",
+    "option C": "Zenith",
+    "option D": "Focus point",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: Meteor Showers: 2",
+    "question": "What physical mechanism causes incoming meteor shower dust particles to glow and streak bright light across the night sky?",
+    "option A": "Nuclear fusion in meteor cores",
+    "option B": "Atmospheric friction generating intense heat",
+    "option C": "Solar radiation reflection",
+    "option D": "Electrical discharge from cloud layers",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: Meteor Showers: 3",
+    "question": "Which prominent annual meteor shower peaks in August and originates from dust left by Comet Swift-Tuttle?",
+    "option A": "Geminids",
+    "option B": "Perseids",
+    "option C": "Leonids",
+    "option D": "Lyrids",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: Meteor Showers: 4",
+    "question": "Which unusual asteroid acts as the parent body responsible for the Geminid meteor shower?",
+    "option A": "Asteroid 1 Ceres",
+    "option B": "Asteroid 4 Vesta",
+    "option C": "Asteroid 3200 Phaethon",
+    "option D": "Asteroid 101955 Bennu",
+    "answer": "C"
+  },
+  {
+    "number": "EQ: Meteor Showers: 5",
+    "question": "During which calendar month does the Geminid meteor shower reach its peak activity?",
+    "option A": "August",
+    "option B": "October",
+    "option C": "December",
+    "option D": "April",
+    "answer": "C"
+  },
+  {
+    "number": "EQ: Meteor Showers: 6",
+    "question": "Which meteor shower is famous for producing cyclically intense 'meteor storms' roughly every 33 years?",
+    "option A": "Perseids",
+    "option B": "Leonids",
+    "option C": "Orionids",
+    "option D": "Quadrantids",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: Meteor Showers: 7",
+    "question": "Which famous comet is the parent body for BOTH the Orionid and Eta Aquariid meteor showers?",
+    "option A": "Comet Encke",
+    "option B": "Comet Halley",
+    "option C": "Comet Swift-Tuttle",
+    "option D": "Comet Hale-Bopp",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: Meteor Showers: 8",
+    "question": "In which month does the Orionid meteor shower reach its peak display?",
+    "option A": "May",
+    "option B": "August",
+    "option C": "October",
+    "option D": "December",
+    "answer": "C"
+  },
+  {
+    "number": "EQ: Meteor Showers: 9",
+    "question": "In which month do the Eta Aquariids reach their maximum activity peak?",
+    "option A": "January",
+    "option B": "May",
+    "option C": "July",
+    "option D": "November",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: Meteor Showers: 10",
+    "question": "Which modern constellation contains the radiant point for the early-year Quadrantid meteor shower?",
+    "option A": "Boötes",
+    "option B": "Ursa Major",
+    "option C": "Leo",
+    "option D": "Cygnus",
+    "answer": "A"
+  },
+  {
+    "number": "EQ: Meteor Showers: 11",
+    "question": "Which rocky body or asteroid serves as the parent body of the Quadrantid meteor shower?",
+    "option A": "Asteroid 2003 EH1",
+    "option B": "Comet Tempel-Tuttle",
+    "option C": "Asteroid Eros",
+    "option D": "Comet Thatcher",
+    "answer": "A"
+  },
+  {
+    "number": "EQ: Meteor Showers: 12",
+    "question": "Which long-period comet serves as the parent body for the annual Lyrid meteor shower?",
+    "option A": "Comet Swift-Tuttle",
+    "option B": "Comet Thatcher",
+    "option C": "Comet Halley",
+    "option D": "Comet Borrelly",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: Meteor Showers: 13",
+    "question": "Which meteor shower is recorded as one of the oldest known, observed by Chinese astronomers over 2,700 years ago?",
+    "option A": "Lyrids",
+    "option B": "Geminids",
+    "option C": "Perseids",
+    "option D": "Orionids",
+    "answer": "A"
+  },
+  {
+    "number": "EQ: Earth: 1",
+    "question": "What is the approximate period of the Moon's revolution around Earth relative to distant stars (sidereal month)?",
+    "option A": "29.5 days",
+    "option B": "27.3 days",
+    "option C": "24.0 days",
+    "option D": "31.0 days",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: Earth: 2",
+    "question": "What is the time interval between two consecutive New Moons (synodic month)?",
+    "option A": "27.3 days",
+    "option B": "29.5 days",
+    "option C": "365.25 days",
+    "option D": "28.0 days",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: Earth: 3",
+    "question": "What is the term for the apparent annual path that the Sun traces across the celestial sphere among background stars?",
+    "option A": "Celestial equator",
+    "option B": "Prime meridian",
+    "option C": "Ecliptic",
+    "option D": "Solstice line",
+    "answer": "C"
+  },
+  {
+    "number": "EQ: Earth: 4",
+    "question": "Due to Earth's axial rotation, in what direction do stars appear to move across the sky each night?",
+    "option A": "West to East",
+    "option B": "East to West",
+    "option C": "North to South",
+    "option D": "South to North",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: Earth: 5",
+    "question": "Which Renaissance astronomer published a comprehensive mathematical framework for the heliocentric model in 1543?",
+    "option A": "Galileo Galilei",
+    "option B": "Johannes Kepler",
+    "option C": "Nicolaus Copernicus",
+    "option D": "Tycho Brahe",
+    "answer": "C"
+  },
+  {
+    "number": "EQ: Earth: 6",
+    "question": "What geometry measurement did Eratosthenes use to calculate the circumference of Earth in ancient times?",
+    "option A": "Shadow angle difference between two locations",
+    "option B": "Time delay of lunar eclipses",
+    "option C": "Apparent diameter of the Sun",
+    "option D": "Curvature radius of ocean horizon",
+    "answer": "A"
+  },
+  {
+    "number": "EQ: Earth: 7",
+    "question": "What classical astronomical model posits that a stationary Earth sits at the absolute center of the universe?",
+    "option A": "Heliocentric Model",
+    "option B": "Geocentric Model",
+    "option C": "Tychonic System",
+    "option D": "Nebular Model",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: Earth: 8",
+    "question": "Which partially molten upper layer of Earth's mantle is the primary source region for volcanic magma?",
+    "option A": "Lithosphere",
+    "option B": "Asthenosphere",
+    "option C": "Inner Core",
+    "option D": "Outer Core",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: Earth: 9",
+    "question": "What particles constitute approximately 90% of incoming high-energy cosmic ray nuclei?",
+    "option A": "Electrons",
+    "option B": "Protons (hydrogen nuclei)",
+    "option C": "Neutrons",
+    "option D": "Alpha particles (helium nuclei)",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: Earth: 10",
+    "question": "Which layer of Earth's atmosphere contains the vital ozone layer that absorbs harmful ultraviolet rays?",
+    "option A": "Troposphere",
+    "option B": "Stratosphere",
+    "option C": "Mesosphere",
+    "option D": "Thermosphere",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: Earth: 11",
+    "question": "What is the elongation angle of a planet relative to the Sun when it is in opposition?",
+    "option A": "0 degrees",
+    "option B": "90 degrees",
+    "option C": "180 degrees",
+    "option D": "45 degrees",
+    "answer": "C"
+  },
+  {
+    "number": "EQ: Earth: 12",
+    "question": "What configuration occurs when an inner planet passes directly between Earth and the Sun?",
+    "option A": "Superior Conjunction",
+    "option B": "Inferior Conjunction",
+    "option C": "Opposition",
+    "option D": "Greatest Elongation",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: Earth: 13",
+    "question": "Can interior planets such as Mercury or Venus ever reach an opposition configuration as seen from Earth?",
+    "option A": "Yes, during winter solstices",
+    "option B": "No",
+    "option C": "Yes, every 8 years",
+    "option D": "Only Mercury can",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: Earth: 14",
+    "question": "What is the elongation angle of a planet relative to the Sun when it is in conjunction?",
+    "option A": "0 degrees",
+    "option B": "90 degrees",
+    "option C": "180 degrees",
+    "option D": "270 degrees",
+    "answer": "A"
+  },
+  {
+    "number": "EQ: Earth: 15",
+    "question": "Which planetary orbital position provides all-night visibility and maximum apparent brightness for an outer planet?",
+    "option A": "Conjunction",
+    "option B": "Opposition",
+    "option C": "Quadrature",
+    "option D": "Perihelion",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: Moon: 1",
+    "question": "A sidereal month measures the Moon's complete orbital period around Earth with respect to what reference?",
+    "option A": "The Sun",
+    "option B": "Background stars",
+    "option C": "Earth's prime meridian",
+    "option D": "The ecliptic node",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: Moon: 2",
+    "question": "How many additional days does the Moon require to complete a synodic month compared to a sidereal month?",
+    "option A": "1.0 day",
+    "option B": "2.2 days",
+    "option C": "3.5 days",
+    "option D": "5.0 days",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: Moon: 3",
+    "question": "What is the term for the dividing line separating the illuminated daylight side of the Moon from its shadowed night side?",
+    "option A": "Ecliptic line",
+    "option B": "Lunar terminator",
+    "option C": "Limb line",
+    "option D": "Equatorial boundary",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: Moon: 4",
+    "question": "How much of the Moon's spherical surface is physically illuminated by direct sunlight at any given moment in space?",
+    "option A": "100%",
+    "option B": "50% (half)",
+    "option C": "25% (quarter)",
+    "option D": "75%",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: Moon: 5",
+    "question": "What fundamental geometric relationship causes the observed progression of lunar phases from Earth?",
+    "option A": "Earth's shadow falling on the Moon",
+    "option B": "Changing geometric angles between Sun, Moon, and Earth during orbit",
+    "option C": "Variable light output from solar flares",
+    "option D": "Seasonal atmospheric tilting on Earth",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: Moon: 6",
+    "question": "During which specific lunar phase can a lunar eclipse take place?",
+    "option A": "New Moon",
+    "option B": "First Quarter",
+    "option C": "Full Moon",
+    "option D": "Third Quarter",
+    "answer": "C"
+  },
+  {
+    "number": "EQ: Moon: 7",
+    "question": "What is the darkest, innermost portion of Earth's shadow cone during an eclipse called?",
+    "option A": "Penumbra",
+    "option B": "Umbra",
+    "option C": "Antumbra",
+    "option D": "Corona",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: Moon: 8",
+    "question": "What is the lighter, partial outer shadow area surrounding the primary shadow during an eclipse called?",
+    "option A": "Penumbra",
+    "option B": "Umbra",
+    "option C": "Terminator",
+    "option D": "Node",
+    "answer": "A"
+  },
+  {
+    "number": "EQ: Moon: 9",
+    "question": "What distinct color does the Moon often take on during a total lunar eclipse due to atmospheric light scattering?",
+    "option A": "Deep blue",
+    "option B": "Reddish (blood moon)",
+    "option C": "Bright yellow",
+    "option D": "Silver-white",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: Moon: 10",
+    "question": "What solar elongation angle corresponds to the First Quarter moon phase?",
+    "option A": "0 degrees",
+    "option B": "90 degrees",
+    "option C": "180 degrees",
+    "option D": "270 degrees",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: Moon: 11",
+    "question": "Which term describes the Moon phase when more than half of its visible disk is illuminated and expanding day by day?",
+    "option A": "Waxing Crescent",
+    "option B": "Waning Gibbous",
+    "option C": "Waxing Gibbous",
+    "option D": "Waning Crescent",
+    "answer": "C"
+  },
+  {
+    "number": "EQ: Moon: 12",
+    "question": "What is the duration of an average tidal day on Earth (the time for a point on Earth to rotate back to face the Moon)?",
+    "option A": "24 hours 00 minutes",
+    "option B": "24 hours 50 minutes",
+    "option C": "23 hours 56 minutes",
+    "option D": "25 hours 30 minutes",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: Moon: 13",
+    "question": "Approximately how many degrees along its orbit does the Moon advance eastward each day?",
+    "option A": "1 degree",
+    "option B": "5 degrees",
+    "option C": "13 degrees",
+    "option D": "30 degrees",
+    "answer": "C"
+  },
+  {
+    "number": "EQ: Moon: 14",
+    "question": "Approximately how long does a single daylight period last at a fixed location on the surface of the Moon?",
+    "option A": "12 hours",
+    "option B": "7 Earth days",
+    "option C": "14.75 Earth days",
+    "option D": "29.5 Earth days",
+    "answer": "C"
+  },
+  {
+    "number": "EQ: Moon: 15",
+    "question": "What is the total duration of a full day/night cycle (true lunar day) on the Moon?",
+    "option A": "24 hours",
+    "option B": "14.75 Earth days",
+    "option C": "29.5 Earth days",
+    "option D": "365 Earth days",
+    "answer": "C"
+  },
+  {
+    "number": "EQ: Moon: 16",
+    "question": "Why does the Moon's rotation period on its axis exactly match its orbital period around Earth?",
+    "option A": "Gravitational push from solar radiation",
+    "option B": "Tidal locking (synchronous rotation)",
+    "option C": "Magnetic field alignment with Earth's poles",
+    "option D": "Aerodynamic resistance in space dust",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: Physics: 1",
+    "question": "What physical quantity does a light-year measure?",
+    "option A": "Time",
+    "option B": "Distance",
+    "option C": "Speed",
+    "option D": "Luminosity",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: Physics: 2",
+    "question": "How is 'one planet year' defined in planetary astronomy?",
+    "option A": "Time taken for one full rotation on its axis",
+    "option B": "Time taken for one complete revolution around the Sun",
+    "option C": "Time between consecutive planetary oppositions",
+    "option D": "Time required for magnetic poles to flip",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: Physics: 3",
+    "question": "Which observational astronomer gathered the meticulous planetary position data that Johannes Kepler analyzed?",
+    "option A": "Galileo Galilei",
+    "option B": "Tycho Brahe",
+    "option C": "Isaac Newton",
+    "option D": "Christiaan Huygens",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: Physics: 4",
+    "question": "What geometric shape did ancient philosophers and early astronomers assume planetary orbits were?",
+    "option A": "Ellipses",
+    "option B": "Perfect circles",
+    "option C": "Parabolas",
+    "option D": "Hyperbolas",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: Physics: 5",
+    "question": "Whose groundbreaking theory of universal gravitation was directly built upon Kepler's empirical laws of planetary motion?",
+    "option A": "Albert Einstein",
+    "option B": "Isaac Newton",
+    "option C": "James Clerk Maxwell",
+    "option D": "René Descartes",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: Celestial Astronomy: 1",
+    "question": "What is the term for the imaginary point on the celestial sphere located directly overhead of an observer?",
+    "option A": "Nadir",
+    "option B": "Zenith",
+    "option C": "Vernal Equinox",
+    "option D": "Celestial Pole",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: Celestial Astronomy: 2",
+    "question": "Which celestial local coordinate measures an object's compass angle measured eastward along the horizon?",
+    "option A": "Altitude",
+    "option B": "Azimuth",
+    "option C": "Declination",
+    "option D": "Right Ascension",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: Celestial Astronomy: 3",
+    "question": "What is the angular altitude of the astronomical horizon in degrees?",
+    "option A": "0 degrees",
+    "option B": "45 degrees",
+    "option C": "90 degrees",
+    "option D": "180 degrees",
+    "answer": "A"
+  },
+  {
+    "number": "EQ: Celestial Astronomy: 4",
+    "question": "What is the point on the celestial sphere located directly below an observer's feet, opposite the zenith?",
+    "option A": "Nadir",
+    "option B": "Zenith",
+    "option C": "Antipode",
+    "option D": "Perigee",
+    "answer": "A"
+  },
+  {
+    "number": "EQ: Celestial Astronomy: 5",
+    "question": "Which bright star's altitude above the northern horizon directly corresponds to the observer's geographic latitude?",
+    "option A": "Sirius",
+    "option B": "Polaris (North Star)",
+    "option C": "Vega",
+    "option D": "Betelgeuse",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: Celestial Astronomy: 6",
+    "question": "On a Zero Shadow Day, what is the exact altitude of the Sun in the sky at local astronomical noon?",
+    "option A": "0 degrees",
+    "option B": "45 degrees",
+    "option C": "90 degrees",
+    "option D": "66.5 degrees",
+    "answer": "C"
+  },
+  {
+    "number": "EQ: Celestial Astronomy: 7",
+    "question": "In which geographic region on Earth do Zero Shadow Days exclusively take place?",
+    "option A": "Polar regions",
+    "option B": "The Tropics (between Tropic of Cancer and Capricorn)",
+    "option C": "Temperate zones",
+    "option D": "Equatorial oceans only",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: Celestial Astronomy: 8",
+    "question": "What are stars called that, from a given latitude, never drop below the horizon during their daily rotation?",
+    "option A": "Transient stars",
+    "option B": "Circumpolar stars",
+    "option C": "Binary stars",
+    "option D": "Ecliptic stars",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: Celestial Astronomy: 9",
+    "question": "In which exact cardinal directions does the Sun rise and set on an equinox?",
+    "option A": "North-East and North-West",
+    "option B": "Due East and Due West",
+    "option C": "South-East and South-West",
+    "option D": "Varie depending on latitude",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: Celestial Astronomy: 10",
+    "question": "How long are daylight and night hours at Earth's Equator throughout the entire year?",
+    "option A": "12 hours daylight, 12 hours night",
+    "option B": "14 hours daylight, 10 hours night",
+    "option C": "6 hours daylight, 18 hours night",
+    "option D": "Fluctuates widely by season",
+    "answer": "A"
+  },
+  {
+    "number": "EQ: Celestial Astronomy: 11",
+    "question": "During summer in the Northern Hemisphere, in which general direction does the Sun rise?",
+    "option A": "Due East",
+    "option B": "North-East",
+    "option C": "South-East",
+    "option D": "Due South",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: Celestial Astronomy: 12",
+    "question": "What is the Sun's declination angle on the spring and autumn equinoxes?",
+    "option A": "+23.5 degrees",
+    "option B": "0 degrees",
+    "option C": "-23.5 degrees",
+    "option D": "+90 degrees",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: Celestial Astronomy: 13",
+    "question": "What is the Sun's approximate declination on the Summer Solstice in the Northern Hemisphere?",
+    "option A": "0 degrees",
+    "option B": "+23.5 degrees",
+    "option C": "-23.5 degrees",
+    "option D": "+66.5 degrees",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: Celestial Astronomy: 14",
+    "question": "What is the exact duration of one true sidereal day on Earth?",
+    "option A": "24 hours 00 minutes 00 seconds",
+    "option B": "23 hours 56 minutes 04 seconds",
+    "option C": "24 hours 04 minutes 00 seconds",
+    "option D": "23 hours 50 minutes 00 seconds",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: Celestial Astronomy: 15",
+    "question": "How many extra degrees must Earth rotate beyond 360 degrees to complete one full solar day relative to the Sun?",
+    "option A": "Approximately 1 degree",
+    "option B": "Approximately 5 degrees",
+    "option C": "Approximately 15 degrees",
+    "option D": "Approximately 0.5 degrees",
+    "answer": "A"
+  },
+  {
+    "number": "EQ: Celestial Astronomy: 16",
+    "question": "Which time measurement interval is longer on Earth: a mean Solar Day or a Sidereal Day?",
+    "option A": "Sidereal day",
+    "option B": "Solar day",
+    "option C": "They are exactly equal",
+    "option D": "It changes every month",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: General Astro: 1",
+    "question": "Which astronomical model posits that Earth is stationary at the center of the solar system?",
+    "option A": "Heliocentric model",
+    "option B": "Geocentric model",
+    "option C": "Galactic model",
+    "option D": "Big Bang model",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: General Astro: 2",
+    "question": "Which 5th-century Indian astronomer proposed that Earth rotates on its axis to produce day and night?",
+    "option A": "Varahamihira",
+    "option B": "Aryabhata",
+    "option C": "Bhaskara I",
+    "option D": "Brahmagupta",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: General Astro: 3",
+    "question": "According to ancient Indian astronomer Aryabhata, how does the Moon produce its observed light?",
+    "option A": "Internal nuclear fire",
+    "option B": "Reflecting sunlight",
+    "option C": "Glowing gas reactions",
+    "option D": "Atmospheric electricity",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: General Astro: 4",
+    "question": "Which universe model featuring epicycles was championed and standardized by Ptolemy in the 2nd century CE?",
+    "option A": "Heliocentric model",
+    "option B": "Geocentric model",
+    "option C": "Steady State model",
+    "option D": "Keplerian model",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: General Astro: 5",
+    "question": "Which astronomer formally proposed the modern Heliocentric Model in his 1543 publication?",
+    "option A": "Tycho Brahe",
+    "option B": "Nicolaus Copernicus",
+    "option C": "Galileo Galilei",
+    "option D": "Johannes Kepler",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: General Astro: 6",
+    "question": "What fundamental geometric shape did Johannes Kepler discover planetary orbits actually trace?",
+    "option A": "Perfect circles",
+    "option B": "Ellipses",
+    "option C": "Spirals",
+    "option D": "Parabolas",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: General Astro: 7",
+    "question": "Which four large natural satellites of Jupiter did Galileo Galilei discover in 1609?",
+    "option A": "Titan, Enceladus, Mimas, Rhea",
+    "option B": "Io, Europa, Ganymede, Callisto",
+    "option C": "Phobos, Deimos, Triton, Charon",
+    "option D": "Oberon, Titania, Umbriel, Ariel",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: General Astro: 8",
+    "question": "Which fundamental physical force did Isaac Newton formulate to explain why planets remain in orbit around the Sun?",
+    "option A": "Electromagnetism",
+    "option B": "Universal Gravitation",
+    "option C": "Strong Nuclear Force",
+    "option D": "Centrifugal Pressure",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: General Astro: 9",
+    "question": "Which optical instrument did Galileo Galilei construct and turn toward the sky for astronomical observations in 1609?",
+    "option A": "Astrolabe",
+    "option B": "Telescope",
+    "option C": "Spectroscope",
+    "option D": "Sextant",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: General Astro: 10",
+    "question": "Which iconic space observatory launched in 1990 operates in Low Earth Orbit to capture clear optical views?",
+    "option A": "James Webb Space Telescope",
+    "option B": "Hubble Space Telescope",
+    "option C": "Spitzer Space Telescope",
+    "option D": "Chandra X-ray Observatory",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: General Astro: 11",
+    "question": "Which major space telescope launched in late 2021 operates primarily in infrared to observe early stars and galaxies?",
+    "option A": "Hubble Space Telescope",
+    "option B": "James Webb Space Telescope (JWST)",
+    "option C": "Kepler Space Telescope",
+    "option D": "Nancy Grace Roman Telescope",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: General Astro: 12",
+    "question": "In which century did observational astronomy make the major shift from ground telescopes to space-launched satellites?",
+    "option A": "18th century",
+    "option B": "19th century",
+    "option C": "20th century",
+    "option D": "21st century",
+    "answer": "C"
+  },
+  {
+    "number": "EQ: General Astro: 13",
+    "question": "What name is given to planets that orbit stars outside our Solar System?",
+    "option A": "Dwarf planets",
+    "option B": "Exoplanets",
+    "option C": "Planetesimals",
+    "option D": "Asteroids",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: General Astro: 14",
+    "question": "In which geographical region of Gujarat, India is the Harappan archaeological site of Dholavira located?",
+    "option A": "Saurashtra",
+    "option B": "Kutch",
+    "option C": "North Gujarat",
+    "option D": "South Gujarat",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: General Astro: 15",
+    "question": "Which ancient civilization built the sophisticated urban settlement and solar observation alignment structures at Dholavira?",
+    "option A": "Mesopotamian Civilization",
+    "option B": "Indus Valley Civilization",
+    "option C": "Egyptian Civilization",
+    "option D": "Vedic Civilization",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: General Astro: 16",
+    "question": "Around what approximate period BCE were the stone masonry observational structures at Dholavira constructed?",
+    "option A": "5000 BCE",
+    "option B": "2500 BCE",
+    "option C": "1000 BCE",
+    "option D": "500 BCE",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: General Astro: 17",
+    "question": "What historic monumental masonry observatories were constructed by Maharaja Sawai Jai Singh II across Northern India?",
+    "option A": "Jantar Mantar observatories",
+    "option B": "Madras Observatories",
+    "option C": "Kodaikanal Observatories",
+    "option D": "Udaipur Solar Observatories",
+    "answer": "A"
+  },
+  {
+    "number": "EQ: General Astro: 18",
+    "question": "In which Indian city was the very first Jantar Mantar observatory established by Sawai Jai Singh II in 1724?",
+    "option A": "Jaipur",
+    "option B": "Delhi",
+    "option C": "Ujjain",
+    "option D": "Varanasi",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: General Astro: 19",
+    "question": "What primary category of giant masonry time-measuring instruments were constructed at Jantar Mantar sites?",
+    "option A": "Water clocks",
+    "option B": "Sundials",
+    "option C": "Sand hourglasses",
+    "option D": "Pendulum clocks",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: General Astro: 20",
+    "question": "What was the first modern European-style astronomical observatory built in India in 1786?",
+    "option A": "Kodaikanal Observatory",
+    "option B": "Madras Observatory",
+    "option C": "Indian Institute of Astrophysics",
+    "option D": "Naini Tal Observatory",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: General Astro: 21",
+    "question": "In which year was the historic Madras Observatory officially established?",
+    "option A": "1724",
+    "option B": "1786",
+    "option C": "1899",
+    "option D": "1947",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: General Astro: 22",
+    "question": "How was the Madras Observatory utilized during 19th-century cartographic surveys of India?",
+    "option A": "As a weather forecast transmitter",
+    "option B": "As the primary reference longitude meridian for making maps of India",
+    "option C": "As a magnetic core monitoring station",
+    "option D": "As a central tide gauge station",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: General Astro: 23",
+    "question": "To which hill station location did the Madras Observatory relocate its primary astronomical instruments in 1899?",
+    "option A": "Ooty",
+    "option B": "Kodaikanal",
+    "option C": "Darjeeling",
+    "option D": "Shimla",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: General Astro: 24",
+    "question": "What is the facility created from the relocation of the Madras Observatory in 1899 currently known as?",
+    "option A": "Vainu Bappu Observatory",
+    "option B": "Kodaikanal Solar Observatory",
+    "option C": "Indian Astronomical Observatory, Hanle",
+    "option D": "Aryabhatta Research Institute",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: General Astro: 25",
+    "question": "What major astronomical astronomical data catalog did the Madras Observatory publish during the 19th century?",
+    "option A": "Catalog of galaxy clusters",
+    "option B": "Catalog of stars (over 11,000) and minor planets",
+    "option C": "Catalog of lunar craters",
+    "option D": "Atlas of solar flares",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: General Astro: 26",
+    "question": "In what year was the first confirmed exoplanet discovered orbiting a pulsar?",
+    "option A": "1975",
+    "option B": "1992",
+    "option C": "2005",
+    "option D": "2015",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: General Astro: 27",
+    "question": "Approximately how many confirmed exoplanets have astronomers discovered to date?",
+    "option A": "Around 500",
+    "option B": "Over 6,000",
+    "option C": "Over 1,000,000",
+    "option D": "Fewer than 100",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: General Astro: 28",
+    "question": "What nickname is given to massive gas giant exoplanets that orbit extremely close to their host stars?",
+    "option A": "Super-Earths",
+    "option B": "Hot Jupiters",
+    "option C": "Mini-Neptunes",
+    "option D": "Rogue Planets",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: General Astro: 29",
+    "question": "What class of exoplanets refers to rocky worlds with masses larger than Earth but smaller than Neptune?",
+    "option A": "Hot Jupiters",
+    "option B": "Super-Earths",
+    "option C": "Gas Dwarfs",
+    "option D": "Ice Giants",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: General Astro: 30",
+    "question": "When using the Transit Method to detect exoplanets, what happens to the apparent brightness of the parent star as a planet crosses in front of it?",
+    "option A": "It increases sharply",
+    "option B": "It temporarily decreases (dims)",
+    "option C": "It shifts color toward blue",
+    "option D": "It remains completely unchanged",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: General Astro: 31",
+    "question": "In the Radial Velocity method for detecting exoplanets, what physical force causes the parent star to wobble around the center of mass?",
+    "option A": "Magnetic attraction",
+    "option B": "Gravitational pull of the orbiting planet",
+    "option C": "Stellar wind backpressure",
+    "option D": "Radiation pressure",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: General Astro: 32",
+    "question": "What popular nickname is often given to the circumstellar Habitable Zone around a star?",
+    "option A": "Asteroid Belt",
+    "option B": "Goldilocks Zone",
+    "option C": "Kuiper Belt",
+    "option D": "Roche Limit",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: General Astro: 33",
+    "question": "What essential substance for life can exist in stable liquid form on a planet's surface within the Habitable Zone?",
+    "option A": "Methane",
+    "option B": "Water",
+    "option C": "Ammonia",
+    "option D": "Carbon dioxide",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: General Astro: 34",
+    "question": "Which modern space observatory analyzes exoplanet atmospheric compositions by measuring light passing through during transit?",
+    "option A": "Galileo",
+    "option B": "James Webb Space Telescope (JWST)",
+    "option C": "Chandra",
+    "option D": "Voyager 1",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: General Astro: 35",
+    "question": "In what normal direction do planets appear to drift against background stars from night to night in their orbits?",
+    "option A": "Westward",
+    "option B": "Eastward",
+    "option C": "Northward",
+    "option D": "Southward",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: General Astro: 36",
+    "question": "In what direction do planets temporarily appear to move across the sky during apparent retrograde motion?",
+    "option A": "Eastward",
+    "option B": "Westward (backward)",
+    "option C": "Northward",
+    "option D": "Southward",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: General Astro: 37",
+    "question": "Is apparent retrograde motion a real physical reversal of a planet's orbital direction or an optical illusion?",
+    "option A": "Real physical reversal",
+    "option B": "Optical illusion due to relative orbital motion",
+    "option C": "Magnetic axis tilt change",
+    "option D": "Gravitational push from outer stars",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: General Astro: 38",
+    "question": "What visual sky phenomenon occurs when Earth, moving faster on its inner orbit, overtakes a slower-moving outer planet?",
+    "option A": "Solar flare",
+    "option B": "Apparent retrograde motion",
+    "option C": "Lunar eclipse",
+    "option D": "Planetary transit",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: General Astro: 39",
+    "question": "Successfully explaining Mars's retrograde motion helped astronomers prove which model of the solar system?",
+    "option A": "Geocentric model",
+    "option B": "Heliocentric model",
+    "option C": "Tychonic model",
+    "option D": "Static universe model",
+    "answer": "B"
+  },
+  {
+    "number": "EQ: General Astro: 40",
+    "question": "Which planet moves faster in its orbit around the Sun according to Kepler's Third Law: Earth or Mars?",
+    "option A": "Mars",
+    "option B": "Earth",
+    "option C": "Both move at identical speeds",
+    "option D": "Speed depends on planetary size",
+    "answer": "B"
   }
 ]
