@@ -3454,5 +3454,725 @@
     "option C": "National Regional Space Centre",
     "option D": "Navigational Remote Satellite Centre",
     "answer": "A"
-  } 
+  },
+  {
+    "number": 401,
+    "question": "When did the first successful launch of SLV-3 take place?",
+    "option A": "August 1979",
+    "option B": "18 July 1980",
+    "option C": "15 August 1972",
+    "option D": "26 January 1975",
+    "answer": "B"
+  },
+  {
+    "number": 402,
+    "question": "Which combination of liquid propellants is used in main engines like the Space Shuttle orbiter's?",
+    "option A": "Kerosene and liquid oxygen",
+    "option B": "Hydrazine and nitrogen tetroxide",
+    "option C": "Liquid oxygen and liquid hydrogen",
+    "option D": "Solid ammonium perchlorate and aluminum",
+    "answer": "C"
+  },
+  {
+    "number": 403,
+    "question": "How do navigation satellite systems like GPS determine a receiver's exact position on Earth?",
+    "option A": "Transmitting location and time signals",
+    "option B": "Measuring atmospheric temperature shifts",
+    "option C": "Bouncing laser beams off receivers",
+    "option D": "Capturing optical images of receivers",
+    "answer": "A"
+  },
+  {
+    "number": 404,
+    "question": "Why is the exploration of Mars particularly useful for improving our understanding of Earth?",
+    "option A": "Mars has identical magnetic shielding",
+    "option B": "Mars shares similar climate features",
+    "option C": "Mars has active continental drift",
+    "option D": "Mars experiences identical ocean tides",
+    "answer": "B"
+  },
+  {
+    "number": 405,
+    "question": "What is orbital resonance in celestial mechanics?",
+    "option A": "Bodies having integer-ratio orbital periods",
+    "option B": "Planets orbiting at identical speeds",
+    "option C": "Moons rotating faster than orbiting",
+    "option D": "Stars colliding in galaxy cores",
+    "answer": "A"
+  },
+  {
+    "number": 407,
+    "question": "Why do different planets retain distinct atmospheric compositions and densities?",
+    "option A": "Influenced by gravity and temperature",
+    "option B": "Determined solely by orbital speed",
+    "option C": "Controlled entirely by satellite count",
+    "option D": "Fixed by planetary magnetic age",
+    "answer": "A"
+  },
+  {
+    "number": 408,
+    "question": "What is the primary operational role of ISRO in space technology?",
+    "option A": "Building and launching functional satellites",
+    "option B": "Manufacturing commercial aircraft fleets",
+    "option C": "Managing terrestrial power distribution",
+    "option D": "Mining resources on near asteroids",
+    "answer": "A"
+  },
+  {
+    "number": 409,
+    "question": "What primary space weather phenomenon causes satellite communication disruptions?",
+    "option A": "Solar storm signal interference",
+    "option B": "Lunar eclipse shadow coverage",
+    "option C": "Asteroid belt dust accretion",
+    "option D": "Planetary atmosphere cooling trends",
+    "answer": "A"
+  },
+  {
+    "number": 410,
+    "question": "Why is studying asteroids important for planetary defence?",
+    "option A": "Detecting and deflecting impact threats",
+    "option B": "Preventing solar storm radiation spikes",
+    "option C": "Stabilizing Earth's rotational axis tilt",
+    "option D": "Predicting global volcanic eruption cycles",
+    "answer": "A"
+  },
+  {
+    "number": 411,
+    "question": "How does the greenhouse effect influence planetary surface temperatures?",
+    "option A": "Atmospheric gases trap radiative heat",
+    "option B": "Ocean currents absorb solar rays",
+    "option C": "Volcanic dust blocks thermal light",
+    "option D": "Polar ice reflects incoming sunlight",
+    "answer": "A"
+  },
+  {
+    "number": 412,
+    "question": "Which indirect observation method is commonly used by astronomers to detect exoplanets?",
+    "option A": "Monitoring periodic star brightness drops",
+    "option B": "Measuring radio echo return delay",
+    "option C": "Observing surface continent color changes",
+    "option D": "Detecting direct stellar infrared flashes",
+    "answer": "A"
+  },
+  {
+    "number": 414,
+    "question": "What makes Lagrange points uniquely valuable for space observation missions?",
+    "option A": "Gravitational forces balance out perfectly",
+    "option B": "Spacecraft experience zero solar radiation",
+    "option C": "Planetary atmospheres provide natural shielding",
+    "option D": "Orbital velocities automatically reach light speed",
+    "answer": "A"
+  },
+  {
+    "number": 416,
+    "question": "How can intense solar activity impact modern technological infrastructure on Earth?",
+    "option A": "Disrupts power grids and satellites",
+    "option B": "Cools global ocean surface temperatures",
+    "option C": "Increases atmospheric oxygen concentration levels",
+    "option D": "Alters terrestrial continental plate movement",
+    "answer": "A"
+  },
+  {
+    "number": 417,
+    "question": "What defines a Trans-Neptunian Object (TNO)?",
+    "option A": "Minor planet orbiting beyond Neptune",
+    "option B": "Comet originating inside Mercury's orbit",
+    "option C": "Moon orbiting a gas giant",
+    "option D": "Asteroid located in main belt",
+    "answer": "A"
+  },
+  {
+    "number": 420,
+    "question": "Where was the first modern astronomical observatory in India established in 1786?",
+    "option A": "Bengaluru",
+    "option B": "Chennai",
+    "option C": "Thiruvananthapuram",
+    "option D": "Mumbai",
+    "answer": "B"
+  },
+  {
+    "number": 421,
+    "question": "How does artificial intelligence primarily enhance space exploration missions?",
+    "option A": "Automating data analysis and navigation",
+    "option B": "Replacing chemical rocket propulsion systems",
+    "option C": "Eliminating atmospheric friction during launch",
+    "option D": "Manufacturing solar cells in vacuum",
+    "answer": "A"
+  },
+  {
+    "number": 422,
+    "question": "Why did the main asteroid belt fail to coalesce into a full planet?",
+    "option A": "Gravitational perturbation by massive Jupiter",
+    "option B": "Extreme thermal solar wind pressure",
+    "option C": "Lack of heavy metallic matter",
+    "option D": "Rapid orbital decay into Sun",
+    "answer": "A"
+  },
+  {
+    "number": 423,
+    "question": "What is a key benefit of international cooperation in space research?",
+    "option A": "Sharing high costs and expertise",
+    "option B": "Standardizing single global launch site",
+    "option C": "Preventing space debris formation completely",
+    "option D": "Eliminating satellite frequency transmission limits",
+    "answer": "A"
+  },
+  {
+    "number": 425,
+    "question": "Why is studying comets crucial to understanding the origin of life on Earth?",
+    "option A": "Delivered organic molecules and water",
+    "option B": "Provided early planetary magnetic shields",
+    "option C": "Absorbed toxic atmospheric helium gas",
+    "option D": "Stabilized early Earth rotational spin",
+    "answer": "A"
+  },
+  {
+    "number": 426,
+    "question": "According to the giant impact hypothesis, how was Earth's Moon formed?",
+    "option A": "Accretion of collision debris fragments",
+    "option B": "Gravitational capture of passing asteroid",
+    "option C": "Fission from rapidly spinning Earth",
+    "option D": "Condensation of primary solar nebula",
+    "answer": "A"
+  },
+  {
+    "number": 427,
+    "question": "What is the defining structural characteristic of a terrestrial planet?",
+    "option A": "Composed primarily of rock metal",
+    "option B": "Surrounded by massive hydrogen envelopes",
+    "option C": "Lacking any solid surface layer",
+    "option D": "Possessing dozens of natural moons",
+    "answer": "A"
+  },
+  {
+    "number": 428,
+    "question": "Why do planets follow elliptical rather than perfectly circular orbits?",
+    "option A": "Varying gravitational force during motion",
+    "option B": "Constant atmospheric drag forces acting",
+    "option C": "Intermittent thrust from solar flares",
+    "option D": "Continuous mass loss of planets",
+    "answer": "A"
+  },
+  {
+    "number": 429,
+    "question": "Why did terrestrial planets remain smaller and rockier compared to outer gas giants?",
+    "option A": "High temperature restricted ice condensation",
+    "option B": "Inner solar wind destroyed solids",
+    "option C": "Lack of gravitational pull inward",
+    "option D": "Rapid rotation ejected lightweight gases",
+    "answer": "A"
+  },
+  {
+    "number": 430,
+    "question": "What fundamental role do gravitational interactions play in planetary systems?",
+    "option A": "Keeping bodies bound in orbits",
+    "option B": "Generating atmospheric magnetic field shield",
+    "option C": "Preventing planetary rotational slowdown completely",
+    "option D": "Heating outer gas giant atmospheres",
+    "answer": "A"
+  },
+  {
+    "number": 431,
+    "question": "Why are Trans-Neptunian Objects (TNOs) scientifically valuable to study?",
+    "option A": "Preserved remnants from early nebula",
+    "option B": "Source of heavy industrial metals",
+    "option C": "Primary cause of terrestrial tides",
+    "option D": "Shield Earth from cosmic rays",
+    "answer": "A"
+  },
+  {
+    "number": 432,
+    "question": "What causes the seasonal variations observed on Earth throughout its orbit?",
+    "option A": "Tilted rotational axis during revolution",
+    "option B": "Varying distance to the Sun",
+    "option C": "Fluctuating solar energy output cycles",
+    "option D": "Gravitational pull of the Moon",
+    "answer": "A"
+  },
+  {
+    "number": 433,
+    "question": "Why are celestial coordinate systems essential in astronomy?",
+    "option A": "Precisely locating objects in sky",
+    "option B": "Calculating internal stellar core pressure",
+    "option C": "Determining exact planetary magnetic age",
+    "option D": "Predicting solar flare radiation strength",
+    "answer": "A"
+  },
+  {
+    "number": 434,
+    "question": "What alignment condition causes a lunar eclipse to occur?",
+    "option A": "Earth passes directly between Sun and Moon",
+    "option B": "Moon passes directly between Sun and Earth",
+    "option C": "Sun passes between Earth and Moon",
+    "option D": "Moon reaches its farthest orbital apogee",
+    "answer": "A"
+  },
+  {
+    "number": 435,
+    "question": "What primary effect do lunar tidal forces produce on Earth?",
+    "option A": "Periodic ocean water bulge creation",
+    "option B": "Periodic reversal of magnetic poles",
+    "option C": "Sudden shifts in continental plates",
+    "option D": "Formation of upper atmospheric auroras",
+    "answer": "A"
+  },
+  {
+    "number": 436,
+    "question": "What defining feature results from a celestial body being tidally locked?",
+    "option A": "Rotation period equals orbital period",
+    "option B": "Rotational axis lacks any tilt",
+    "option C": "Orbital speed reaches absolute constant",
+    "option D": "Body stops spinning completely forever",
+    "answer": "A"
+  },
+  {
+    "number": 437,
+    "question": "What technological advancement historically revolutionized observational astronomy?",
+    "option A": "Invention of optical telescopes",
+    "option B": "Discovery of nuclear fusion power",
+    "option C": "Development of steam-powered propulsion",
+    "option D": "Creation of magnetic compass needles",
+    "answer": "A"
+  },
+  {
+    "number": 438,
+    "question": "Which principle of physical law fundamental to rocket motion states action equals reaction?",
+    "option A": "Newton's Third Law of Motion",
+    "option B": "Kepler's Second Law of Areas",
+    "option C": "Law of Universal Gravitation",
+    "option D": "Einstein's Special Relativity Theory",
+    "answer": "A"
+  },
+  {
+    "number": 439,
+    "question": "What is the significance of escape velocity for a space launch mission?",
+    "option A": "Minimum speed to leave gravity",
+    "option B": "Speed to maintain stable orbit",
+    "option C": "Velocity where air friction drops",
+    "option D": "Speed matching Earth's equatorial spin",
+    "answer": "A"
+  },
+  {
+    "number": 440,
+    "question": "What does Kepler's Second Law state regarding planetary orbital motion?",
+    "option A": "Planets sweep equal areas in equal times",
+    "option B": "Orbits are perfect geometric circles always",
+    "option C": "Orbital period equals planetary mass squared",
+    "option D": "Planetary velocity remains completely constant throughout",
+    "answer": "A"
+  },
+  {
+    "number": 441,
+    "question": "Which satellite orbit is typically chosen for global TV broadcasting and telecommunication?",
+    "option A": "Geostationary Earth Orbit",
+    "option B": "Low Earth Orbit",
+    "option C": "Sun-synchronous Polar Orbit",
+    "option D": "Elliptical Transfer Orbit",
+    "answer": "A"
+  },
+  {
+    "number": 442,
+    "question": "According to Newton's Law of Gravitation, what keeps planets bound in their orbits around the Sun?",
+    "option A": "Gravitational attraction balancing forward motion",
+    "option B": "Magnetic repulsion from solar wind",
+    "option C": "Pressure gradients in outer space",
+    "option D": "Electromagnetic attraction between planetary cores",
+    "answer": "A"
+  },
+  {
+    "number": 443,
+    "question": "What physical force supplies the required centripetal force to keep satellites orbiting Earth?",
+    "option A": "Earth's gravitational pull",
+    "option B": "Upper atmospheric lift force",
+    "option C": "Solar radiation photon pressure",
+    "option D": "Earth's internal magnetic field",
+    "answer": "A"
+  },
+  {
+    "number": 444,
+    "question": "How can rocket engines produce thrust in the vacuum of space where no air exists?",
+    "option A": "Carrying internal fuel and oxidizer",
+    "option B": "Pushing against ambient solar wind",
+    "option C": "Using surrounding space magnetic fields",
+    "option D": "Utilizing vacuum pressure differential forces",
+    "answer": "A"
+  },
+  {
+    "number": 445,
+    "question": "What key relationship is described by Tsiolkovsky's rocket equation?",
+    "option A": "Velocity change depends on mass ratio",
+    "option B": "Thrust depends directly on altitude",
+    "option C": "Payload capacity depends on fairing diameter",
+    "option D": "Fuel consumption depends on air density",
+    "answer": "A"
+  },
+  {
+    "number": 446,
+    "question": "Why is multi-stage staging used in orbital rocket design?",
+    "option A": "Shedding depleted mass improves acceleration",
+    "option B": "Preventing rocket engines from overheating",
+    "option C": "Increasing overall launch vehicle weight",
+    "option D": "Maintaining constant aerodynamic drag force",
+    "answer": "A"
+  },
+  {
+    "number": 448,
+    "question": "How does orbital velocity differ fundamentally from escape velocity?",
+    "option A": "Orbital velocity maintains stable orbit",
+    "option B": "Orbital velocity exceeds escape velocity",
+    "option C": "Orbital velocity requires continuous thrust",
+    "option D": "Orbital velocity ignores planetary mass",
+    "answer": "A"
+  },
+  {
+    "number": 449,
+    "question": "How do deep space probes utilize gravity assist maneuvers during flight?",
+    "option A": "Gaining speed from planetary motion",
+    "option B": "Using planetary atmosphere for combustion",
+    "option C": "Refueling from planetary upper atmospheres",
+    "option D": "Bouncing off planetary magnetic shields",
+    "answer": "A"
+  },
+  {
+    "number": 450,
+    "question": "What major operational challenge is faced when landing a spacecraft on another planet?",
+    "option A": "Safely decelerating in unknown atmospheres",
+    "option B": "Maintaining high orbital launch speeds",
+    "option C": "Preventing solar panel energy loss",
+    "option D": "Escaping Earth's strong gravitational pull",
+    "answer": "A"
+  },
+  {
+    "number": 451,
+    "question": "What major landmark scientific discovery was achieved by India's Chandrayaan-1 mission?",
+    "option A": "Detecting water molecules on Moon",
+    "option B": "Finding active volcanoes on Moon",
+    "option C": "Discovering dense lunar atmosphere layers",
+    "option D": "Mapping active lunar liquid rivers",
+    "answer": "A"
+  },
+  {
+    "number": 452,
+    "question": "Where is the Aditya-L1 spacecraft positioned to observe the Sun continuously?",
+    "option A": "Sun-Earth Lagrange Point 1",
+    "option B": "Low Earth Polar Orbit",
+    "option C": "Geostationary Equatorial Orbit",
+    "option D": "Lunar South Pole Surface",
+    "answer": "A"
+  },
+  {
+    "number": 453,
+    "question": "How do space agencies safeguard active satellites from orbital collision risks?",
+    "option A": "Tracking debris and adjusting paths",
+    "option B": "Shielding satellites with solid lead",
+    "option C": "Destroying incoming debris with lasers",
+    "option D": "Lowering all satellites to atmosphere",
+    "answer": "A"
+  },
+  {
+    "number": 454,
+    "question": "Why is orbital space debris a growing concern for satellite operations?",
+    "option A": "High speed impacts cause severe damage",
+    "option B": "Debris blocks sunlight to solar panels",
+    "option C": "Debris alters Earth's gravitational constant",
+    "option D": "Debris absorbs radio communications signals",
+    "answer": "A"
+  },
+  {
+    "number": 456,
+    "question": "What is space weather primarily caused by?",
+    "option A": "Solar activity releasing charged particles",
+    "option B": "Upper atmospheric wind velocity shifts",
+    "option C": "Lunar gravitational force variations",
+    "option D": "Cosmic dust entering Earth's core",
+    "answer": "A"
+  },
+  {
+    "number": 457,
+    "question": "Why do astronauts require specialized spacesuits during extravehicular activities in space?",
+    "option A": "Providing oxygen and pressure protection",
+    "option B": "Increasing body weight in microgravity",
+    "option C": "Generating magnetic fields for stability",
+    "option D": "Blocking Earth's gravitational pull force",
+    "answer": "A"
+  },
+  {
+    "number": 458,
+    "question": "What is the primary economic advantage of developing reusable launch vehicles?",
+    "option A": "Reducing satellite launch costs significantly",
+    "option B": "Eliminating need for liquid rocket fuel",
+    "option C": "Allowing rockets to fly faster than light",
+    "option D": "Increasing rocket structural mass capacity",
+    "answer": "A"
+  },
+  {
+    "number": 462,
+    "question": "Why is only one side of the Moon visible from the surface of Earth?",
+    "option A": "Synchronous rotation due to tidal locking",
+    "option B": "The far side is perpetually unlit",
+    "option C": "Earth's shadow constantly blocks far side",
+    "option D": "The Moon does not rotate at all",
+    "answer": "A"
+  },
+  {
+    "number": 463,
+    "question": "Why do artificial satellites in orbit not fall straight down to Earth's surface?",
+    "option A": "High forward speed balances gravitational pull",
+    "option B": "Atmospheric air pressure holds them up",
+    "option C": "Solar radiation pressure pushes them outward",
+    "option D": "Earth's magnetic field repels satellite metal",
+    "answer": "A"
+  },
+  {
+    "number": 466,
+    "question": "What causes the apparent retrograde motion of planets when observed from Earth?",
+    "option A": "Optical illusion from differing orbital speeds",
+    "option B": "Actual physical reversal of planetary direction",
+    "option C": "Gravitational push from distant outer stars",
+    "option D": "Precession of Earth's rotational polar axis",
+    "answer": "A"
+  },
+  {
+    "number": 467,
+    "question": "What was the main mission objective of the Pragyaan rover during Chandrayaan-3?",
+    "option A": "Analyzing lunar south pole surface soil",
+    "option B": "Drilling deep into lunar mantle core",
+    "option C": "Deploying optical space research telescope",
+    "option D": "Testing human life support capsule tech",
+    "answer": "A"
+  },
+  {
+    "number": 468,
+    "question": "What is space rendezvous in orbital maneuvers?",
+    "option A": "Two spacecraft maneuvering close in orbit",
+    "option B": "Spacecraft escaping planetary gravity field completely",
+    "option C": "Satellite entering Earth's dense upper atmosphere",
+    "option D": "Rocket stage separating after propellant burn",
+    "answer": "A"
+  },
+  {
+    "number": 469,
+    "question": "Where is the Vikram Sarabhai Space Centre (VSSC) located?",
+    "option A": "Thiruvananthapuram",
+    "option B": "Bengaluru",
+    "option C": "Sriharikota",
+    "option D": "Ahmedabad",
+    "answer": "A"
+  },
+  {
+    "number": 470,
+    "question": "What is the name of China's modular space station built in Low Earth Orbit?",
+    "option A": "Tiangong",
+    "option B": "Mir",
+    "option C": "Skylab",
+    "option D": "Salyut",
+    "answer": "A"
+  },
+  {
+    "number": 471,
+    "question": "Who was the first astronaut to step onto the surface of the Moon during Apollo 11?",
+    "option A": "Neil Armstrong",
+    "option B": "Buzz Aldrin",
+    "option C": "Michael Collins",
+    "option D": "Yuri Gagarin",
+    "answer": "A"
+  },
+  {
+    "number": 472,
+    "question": "What fundamental physical principle forms the working basis of rocket propulsion?",
+    "option A": "Equal and opposite reaction force",
+    "option B": "Conservation of electrical potential energy",
+    "option C": "Atmospheric buoyancy density differential force",
+    "option D": "Gravitational pull acceleration balance",
+    "answer": "A"
+  },
+  {
+    "number": 473,
+    "question": "Which Indian satellite series specializes in synthetic aperture radar imaging through clouds and night?",
+    "option A": "RISAT",
+    "option B": "INSAT",
+    "option C": "GSAT",
+    "option D": "IRNSS",
+    "answer": "A"
+  },
+  {
+    "number": 474,
+    "question": "How does an air-breathing engine differ fundamentally from a conventional rocket engine?",
+    "option A": "Uses atmospheric oxygen as oxidizer",
+    "option B": "Carries liquid oxygen in tanks",
+    "option C": "Operates only in space vacuum",
+    "option D": "Burns solid propellant grain fuel",
+    "answer": "A"
+  },
+  {
+    "number": 475,
+    "question": "What is a primary responsibility of a space mission's Mission Control Centre?",
+    "option A": "Monitoring telemetry signals and health",
+    "option B": "Manufacturing rocket engines and propellants",
+    "option C": "Refining raw solar panel silicon cells",
+    "option D": "Designing astronaut spacesuit fabric weave",
+    "answer": "A"
+  },
+  {
+    "number": 476,
+    "question": "Where is the Thumba Equatorial Rocket Launching Station (TERLS) located?",
+    "option A": "Thiruvananthapuram, Kerala",
+    "option B": "Sriharikota, Andhra Pradesh",
+    "option C": "Bengaluru, Karnataka",
+    "option D": "Ahmedabad, Gujarat",
+    "answer": "A"
+  },
+  {
+    "number": 477,
+    "question": "What is the primary scientific goal of the joint ISRO-JAXA LUPEX mission?",
+    "option A": "Exploring lunar south pole water ice",
+    "option B": "Mapping Venusian atmospheric cloud layers",
+    "option C": "Retrieving samples from asteroid Bennu",
+    "option D": "Studying Jupiter's magnetosphere radiation belts",
+    "answer": "A"
+  },
+  {
+    "number": 478,
+    "question": "What is a major structural advantage of using liquid-propellant rocket engines?",
+    "option A": "Tanks use low-mass lightweight structures",
+    "option B": "Propellants can be stored indefinitely without cooling",
+    "option C": "No turbopumps are needed for propellant transfer",
+    "option D": "Engine combustion chambers require no cooling channels",
+    "answer": "A"
+  },
+  {
+    "number": 479,
+    "question": "What is the average orbital altitude of the International Space Station (ISS)?",
+    "option A": "400 km",
+    "option B": "2000 km",
+    "option C": "35786 km",
+    "option D": "100 km",
+    "answer": "A"
+  },
+  {
+    "number": 480,
+    "question": "Why was Thumba originally selected as the site for India's first sounding rocket facility?",
+    "option A": "Proximity to magnetic equator location",
+    "option B": "Highest mountain peak altitude in India",
+    "option C": "Direct access to deep water ports",
+    "option D": "Presence of major metal mining centers",
+    "answer": "A"
+  },
+  {
+    "number": 484,
+    "question": "According to the nebular hypothesis, how did planets form within the primordial solar disk?",
+    "option A": "Accretion of colliding planetesimals",
+    "option B": "Condensation of hot stellar wind",
+    "option C": "Fragmentation of a passing giant star",
+    "option D": "Capture of rogue interstellar comets",
+    "answer": "A"
+  },
+  {
+    "number": 485,
+    "question": "What is the approximate distance range of the Kuiper Belt from the Sun?",
+    "option A": "30 to 55 AU",
+    "option B": "2 to 4 AU",
+    "option C": "100 to 500 AU",
+    "option D": "0.1 to 1 AU",
+    "answer": "A"
+  },
+  {
+    "number": 487,
+    "question": "According to scientific consensus, how old is planet Earth?",
+    "option A": "4.5 billion years",
+    "option B": "13.8 billion years",
+    "option C": "1 billion years",
+    "option D": "10 billion years",
+    "answer": "A"
+  },
+  {
+    "number": 488,
+    "question": "What gravitational interaction primary causes high and low ocean tides on Earth?",
+    "option A": "Moon's gravitational pull on ocean",
+    "option B": "Sun's solar radiation pressure force",
+    "option C": "Earth's internal magnetic core rotation",
+    "option D": "Atmospheric pressure shifts from wind",
+    "answer": "A"
+  },
+  {
+    "number": 489,
+    "question": "What atmospheric phenomenon causes a totally eclipsed Moon to appear reddish?",
+    "option A": "Rayleigh scattering of sunlight in atmosphere",
+    "option B": "Combustion of lunar surface dust particles",
+    "option C": "Reflection of Earth's ocean water blue light",
+    "option D": "Solar flare radiation hitting lunar rocks",
+    "answer": "A"
+  },
+  {
+    "number": 490,
+    "question": "What defines a Lagrangian point in space mechanics?",
+    "option A": "Gravitational forces of two bodies balance",
+    "option B": "Orbital velocity reaches speed of light",
+    "option C": "Atmospheric drag becomes completely zero",
+    "option D": "Magnetic field strength reaches maximum",
+    "answer": "A"
+  },
+  {
+    "number": 493,
+    "question": "How does the International Space Station (ISS) facilitate advanced scientific research?",
+    "option A": "Providing continuous microgravity laboratory environment",
+    "option B": "Generating unlimited solar power for Earth",
+    "option C": "Refining industrial heavy metals in orbit",
+    "option D": "Preventing solar storms from hitting Earth",
+    "answer": "A"
+  },
+  {
+    "number": 494,
+    "question": "Which satellite launched in 1988 was India's first dedicated Earth observation satellite?",
+    "option A": "IRS-1A",
+    "option B": "Aryabhata",
+    "option C": "Rohini",
+    "option D": "INSAT-1A",
+    "answer": "A"
+  },
+  {
+    "number": 495,
+    "question": "What historic achievement was marked by India's Mangalyaan (MOM) mission in 2014?",
+    "option A": "Reached Mars orbit on first attempt",
+    "option B": "Landed first human crew on Mars",
+    "option C": "Returned soil samples from Martian surface",
+    "option D": "Discovered liquid oceans beneath Mars crust",
+    "answer": "A"
+  },
+  {
+    "number": 497,
+    "question": "In optical shadow physics, what is the umbra?",
+    "option A": "Darkest part where light fully blocked",
+    "option B": "Light outer partial shadow region",
+    "option C": "Region where ring of light appears",
+    "option D": "Area where light is magnified",
+    "answer": "A"
+  },
+  {
+    "number": 498,
+    "question": "What defining optical event is observed by spectators positioned within the antumbra shadow zone during a solar eclipse?",
+    "option A": "Annular solar eclipse",
+    "option B": "Total solar eclipse",
+    "option C": "Partial lunar eclipse",
+    "option D": "Total lunar eclipse",
+    "answer": "A"
+  },
+  {
+    "number": 499,
+    "question": "Which ISRO center headquartered in Bengaluru is primarily responsible for designing and constructing satellites?",
+    "option A": "UR Rao Satellite Centre",
+    "option B": "Vikram Sarabhai Space Centre",
+    "option C": "Space Applications Centre",
+    "option D": "National Remote Sensing Centre",
+    "answer": "A"
+  },
+  {
+    "number": 500,
+    "question": "Why are cryogenic rocket engines highly desirable for upper launch stages?",
+    "option A": "High specific impulse efficiency",
+    "option B": "Low manufacturing cost and simplicity",
+    "option C": "Ability to store propellants at room temp",
+    "option D": "Heavy structural mass for launch stability",
+    "answer": "A"
+  }
 ]
