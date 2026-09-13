@@ -5302,7 +5302,7 @@
   },
    {
     "number": "2026 Missions: 1",
-    "question": "What is the primary purpose of ISRO's EOS-05 satellite mission launched aboard the GSLV-F17 rocket?",
+    "question": "What is the primary purpose of ISRO's EOS-05/GISAT-1A satellite mission launched aboard the GSLV-F17 rocket?",
     "option A": "To test commercial space station modules in Low Earth Orbit",
     "option B": "To carry out Earth observation for weather forecasting, ocean monitoring, and disaster management",
     "option C": "To deploy a rover to study permanently shadowed lunar craters",
@@ -5311,7 +5311,7 @@
   },
   {
     "number": "2026 Missions: 2",
-    "question": "In which month was ISRO's heavy-lift Earth Observation satellite (EOS-05) launched aboard the GSLV-F17 rocket?",
+    "question": "In which month was ISRO's heavy-lift Earth Observation satellite (EOS-05/GISAT-1A) launched aboard the GSLV-F17 rocket?",
     "option A": "April",
     "option B": "Late November",
     "option C": "September",
