@@ -5299,5 +5299,131 @@
     "option C": "Both move at identical speeds",
     "option D": "Speed depends on planetary size",
     "answer": "B"
+  },
+   {
+    "number": "2026 Missions: 1",
+    "question": "What is the primary purpose of ISRO's EOS-05 satellite mission launched aboard the GSLV-F17 rocket?",
+    "option A": "To test commercial space station modules in Low Earth Orbit",
+    "option B": "To carry out Earth observation for weather forecasting, ocean monitoring, and disaster management",
+    "option C": "To deploy a rover to study permanently shadowed lunar craters",
+    "option D": "To conduct deep-space early-warning tracking of solar radiation",
+    "answer": "B"
+  },
+  {
+    "number": "2026 Missions: 2",
+    "question": "In which month was ISRO's heavy-lift Earth Observation satellite (EOS-05) launched aboard the GSLV-F17 rocket?",
+    "option A": "April",
+    "option B": "Late November",
+    "option C": "September",
+    "option D": "Mid-January",
+    "answer": "C"
+  },
+  {
+    "number": "2026 Missions: 3",
+    "question": "What key payload is onboard ISRO's maiden uncrewed Gaganyaan G1 flight test to help validate life-support and environmental control systems?",
+    "option A": "Vyommitra, a half-humanoid robot",
+    "option B": "A full robotic lunar hopping detector",
+    "option C": "A four-person international astronaut crew",
+    "option D": "An experimental electric propulsion system",
+    "answer": "A"
+  },
+  {
+    "number": "2026 Missions: 4",
+    "question": "When is ISRO's uncrewed Gaganyaan G1 flight test expected to take place?",
+    "option A": "Early 2026",
+    "option B": "Late 2026 (or early 2027)",
+    "option C": "Mid-2025",
+    "option D": "September 2026",
+    "answer": "B"
+  },
+  {
+    "number": "2026 Missions: 5",
+    "question": "What milestone does NASA's Artemis II mission achieve in human space exploration?",
+    "option A": "Landing the first commercial space station into Low Earth Orbit",
+    "option B": "Landing the first human crew on the Martian surface",
+    "option C": "Flying a four-person crew around the Moon and back",
+    "option D": "Deploying the first deep-space solar weather early-warning satellite",
+    "answer": "C"
+  },
+  {
+    "number": "2026 Missions: 6",
+    "question": "In which month did NASA launch the historic crewed Artemis II test flight around the Moon?",
+    "option A": "April",
+    "option B": "September",
+    "option C": "December",
+    "option D": "July",
+    "answer": "A"
+  },
+  {
+    "number": "2026 Missions: 7",
+    "question": "What is the core objective of SpaceX's uncrewed Starship test flights planned throughout 2026?",
+    "option A": "To search for water ice in the Moon's South Pole craters",
+    "option B": "To carry a humanoid robot into orbit to test life-support systems",
+    "option C": "To test heavy-lift Earth observation capabilities in high geostationary orbit",
+    "option D": "To test interplanetary entry, descent, and landing (EDL) capabilities on Mars",
+    "answer": "D"
+  },
+  {
+    "number": "2026 Missions: 8",
+    "question": "What is the primary target for SpaceX's Starship cargo test flights taking place throughout 2026?",
+    "option A": "Low Earth Orbit",
+    "option B": "The Moon's South Pole",
+    "option C": "Mars",
+    "option D": "Distant Retrograde Orbit",
+    "answer": "C"
+  },
+  {
+    "number": "2026 Missions: 9",
+    "question": "What makes the Haven-1 mission by Vast Space notable in space exploration?",
+    "option A": "It is designed as the world's first commercial private space station in Low Earth Orbit",
+    "option B": "It is the first crewed lunar orbital test flight since Apollo 17",
+    "option C": "It is an ISRO satellite dedicated strictly to thermal disaster management",
+    "option D": "It is China's first robotic mission designed to land on Mars",
+    "answer": "A"
+  },
+  {
+    "number": "2026 Missions: 10",
+    "question": "When is Vast Space's commercial Haven-1 station expected to launch into Low Earth Orbit?",
+    "option A": "April 2026",
+    "option B": "Late 2026",
+    "option C": "Early 2025",
+    "option D": "September 2026",
+    "answer": "B"
+  },
+  {
+    "number": "2026 Missions: 11",
+    "question": "What is the primary goal of the European Space Agency's (ESA) HENON CubeSat mission?",
+    "option A": "Testing splashdown recovery systems for crewed spaceflights",
+    "option B": "Monitoring high-energy solar radiation as an early-warning space weather system",
+    "option C": "Providing high-resolution optical images of ocean currents",
+    "option D": "Demonstrating cargo lander operations on the surface of Mars",
+    "answer": "B"
+  },
+  {
+    "number": "2026 Missions: 12",
+    "question": "When is ESA's HENON deep-space CubeSat mission expected to be launched?",
+    "option A": "Late 2026",
+    "option B": "April 2026",
+    "option C": "Early 2025",
+    "option D": "Mid-2027",
+    "answer": "A"
+  },
+  {
+    "number": "2026 Missions: 13",
+    "question": "What is the main science goal of China's Chang'e 7 expedition to the lunar South Pole?",
+    "option A": "Testing private commercial habitats in microgravity",
+    "option B": "Monitoring solar flare emissions using electric propulsion",
+    "option C": "Searching for water ice inside permanently shadowed craters",
+    "option D": "Testing human-rated crew modules in deep orbit",
+    "answer": "C"
+  },
+  {
+    "number": "2026 Missions: 14",
+    "question": "What is the expected timeframe for China's Chang'e 7 lunar South Pole expedition?",
+    "option A": "Early 2026",
+    "option B": "Late 2026 / 2027",
+    "option C": "April 2026",
+    "option D": "September 2026",
+    "answer": "B"
   }
 ]
