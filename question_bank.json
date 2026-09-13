@@ -5425,5 +5425,50 @@
     "option C": "April 2026",
     "option D": "September 2026",
     "answer": "B"
+  },
+   {
+    "number": "2026 Missions: 15",
+    "question": "What key feature distinguishes NASA's Nancy Grace Roman Space Telescope from the Hubble Space Telescope?",
+    "option A": "It is equipped with a solar-radiation early warning system instead of optical cameras",
+    "option B": "It has a field of view 100 times larger than Hubble while maintaining the same sharp optical quality",
+    "option C": "It is designed as the world's first single-module commercial space station in Low Earth Orbit",
+    "option D": "It uses electric propulsion to search for surface water ice inside permanently shadowed craters",
+    "answer": "B"
+  },
+  {
+    "number": "2026 Missions: 16",
+    "question": "Where is NASA's Nancy Grace Roman Space Telescope designed to be located for its primary science mission?",
+    "option A": "Low Earth Orbit (LEO)",
+    "option B": "Sun-Earth Lagrange Point 2 (L2)",
+    "option C": "Distant Retrograde Orbit (DRO) around the Moon",
+    "option D": "Low Martian Orbit (LMO)",
+    "answer": "B"
+  },
+  {
+    "number": "2026 Missions: 17",
+    "question": "What specialized onboard instrument allows the Nancy Grace Roman Space Telescope to directly image giant exoplanets?",
+    "option A": "A humanoid robotic manipulator",
+    "option B": "An advanced optical coronagraph",
+    "option C": "A thermal splashdown recovery module",
+    "option D": "An electric propulsion thruster",
+    "answer": "B"
+  },
+  {
+    "number": "2026 Missions: 18",
+    "question": "What is one of the primary cosmological goals of the Nancy Grace Roman Space Telescope mission?",
+    "option A": "Surveying dark energy and mapping the distribution of dark matter across cosmic time",
+    "option B": "Testing automated life-support systems for uncrewed orbital flight tests",
+    "option C": "Providing real-time weather forecasting and ocean state monitoring for Earth",
+    "option D": "Deploying a robotic lander and rover to the lunar South Pole",
+    "answer": "A"
+  },
+  {
+    "number": "2026 Missions: 19",
+    "question": "In which month did NASA launch the Nancy Grace Roman Space Telescope aboard a SpaceX Falcon Heavy rocket?",
+    "option A": "April",
+    "option B": "December",
+    "option C": "August",
+    "option D": "January",
+    "answer": "C"
   }
 ]
